@@ -1,0 +1,277 @@
+openapi: 3.1.0
+info:
+  # Do not change the title, if the title changes, the import paths will be broken
+  title: Api
+  version: 0.1.0
+  description: API specification
+servers:
+  - url: /api
+    description: Base API path
+tags:
+  - name: health
+    description: Health operations
+  - name: healthcare
+    description: Healthcare operations analytics
+paths:
+  /healthz:
+    get:
+      operationId: healthCheck
+      tags: [health]
+      summary: Health check
+      description: Returns server health status
+      responses:
+        "200":
+          description: Healthy
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthStatus"
+  /healthcare/overview:
+    get:
+      operationId: getHealthcareOverview
+      tags: [healthcare]
+      summary: Get healthcare executive KPIs
+      description: Returns the headline metrics for hospital operations, financial performance, and readmissions.
+      responses:
+        "200":
+          description: Healthcare executive overview
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthcareOverview"
+  /healthcare/monthly-trends:
+    get:
+      operationId: getHealthcareMonthlyTrends
+      tags: [healthcare]
+      summary: Get monthly healthcare trends
+      description: Returns monthly admissions, average length of stay, and readmission rate.
+      responses:
+        "200":
+          description: Monthly healthcare trends
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/MonthlyTrend"
+  /healthcare/departments:
+    get:
+      operationId: getHealthcareDepartmentPerformance
+      tags: [healthcare]
+      summary: Get department performance
+      description: Returns patient volume, length of stay, cost, and readmission metrics by department.
+      responses:
+        "200":
+          description: Department performance
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/DepartmentPerformance"
+  /healthcare/conditions:
+    get:
+      operationId: getHealthcareConditionPerformance
+      tags: [healthcare]
+      summary: Get condition performance
+      description: Returns admissions and treatment cost by primary diagnosis.
+      responses:
+        "200":
+          description: Condition performance
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/ConditionPerformance"
+  /healthcare/readmission-factors:
+    get:
+      operationId: getHealthcareReadmissionFactors
+      tags: [healthcare]
+      summary: Get readmission risk factors
+      description: Returns readmission rates by age group, length-of-stay band, and previous admission band.
+      responses:
+        "200":
+          description: Readmission risk factors
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ReadmissionFactors"
+  /healthcare/recent-admissions:
+    get:
+      operationId: getHealthcareRecentAdmissions
+      tags: [healthcare]
+      summary: Get recent admissions
+      description: Returns a compact list of recent hospital admissions for operational review.
+      responses:
+        "200":
+          description: Recent admissions
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/RecentAdmission"
+components:
+  schemas:
+    HealthStatus:
+      type: object
+      properties:
+        status:
+          type: string
+      required:
+        - status
+    HealthcareOverview:
+      type: object
+      properties:
+        totalPatients:
+          type: integer
+        totalAdmissions:
+          type: integer
+        averageLengthOfStay:
+          type: number
+        totalTreatmentCost:
+          type: number
+        averageTreatmentCost:
+          type: number
+        readmissionRate:
+          type: number
+        insuranceCoverage:
+          type: number
+        outOfPocketCost:
+          type: number
+        lastUpdated:
+          type: string
+          format: date-time
+      required:
+        - totalPatients
+        - totalAdmissions
+        - averageLengthOfStay
+        - totalTreatmentCost
+        - averageTreatmentCost
+        - readmissionRate
+        - insuranceCoverage
+        - outOfPocketCost
+        - lastUpdated
+    MonthlyTrend:
+      type: object
+      properties:
+        month:
+          type: string
+        admissions:
+          type: integer
+        averageLengthOfStay:
+          type: number
+        readmissionRate:
+          type: number
+        treatmentCost:
+          type: number
+      required:
+        - month
+        - admissions
+        - averageLengthOfStay
+        - readmissionRate
+        - treatmentCost
+    DepartmentPerformance:
+      type: object
+      properties:
+        department:
+          type: string
+        admissions:
+          type: integer
+        averageLengthOfStay:
+          type: number
+        treatmentCost:
+          type: number
+        readmissionRate:
+          type: number
+      required:
+        - department
+        - admissions
+        - averageLengthOfStay
+        - treatmentCost
+        - readmissionRate
+    ConditionPerformance:
+      type: object
+      properties:
+        condition:
+          type: string
+        admissions:
+          type: integer
+        treatmentCost:
+          type: number
+        averageCost:
+          type: number
+        readmissionRate:
+          type: number
+      required:
+        - condition
+        - admissions
+        - treatmentCost
+        - averageCost
+        - readmissionRate
+    ReadmissionFactors:
+      type: object
+      properties:
+        byAgeGroup:
+          type: array
+          items:
+            $ref: "#/components/schemas/FactorBreakdown"
+        byLengthOfStay:
+          type: array
+          items:
+            $ref: "#/components/schemas/FactorBreakdown"
+        byPreviousAdmissions:
+          type: array
+          items:
+            $ref: "#/components/schemas/FactorBreakdown"
+      required:
+        - byAgeGroup
+        - byLengthOfStay
+        - byPreviousAdmissions
+    FactorBreakdown:
+      type: object
+      properties:
+        segment:
+          type: string
+        admissions:
+          type: integer
+        readmissions:
+          type: integer
+        readmissionRate:
+          type: number
+      required:
+        - segment
+        - admissions
+        - readmissions
+        - readmissionRate
+    RecentAdmission:
+      type: object
+      properties:
+        admissionId:
+          type: string
+        patientId:
+          type: string
+        admissionDate:
+          type: string
+          format: date
+        department:
+          type: string
+        condition:
+          type: string
+        lengthOfStay:
+          type: integer
+        treatmentCost:
+          type: number
+        readmitted:
+          type: boolean
+      required:
+        - admissionId
+        - patientId
+        - admissionDate
+        - department
+        - condition
+        - lengthOfStay
+        - treatmentCost
+        - readmitted
+

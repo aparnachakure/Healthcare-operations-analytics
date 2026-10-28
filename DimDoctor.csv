@@ -1,0 +1,13 @@
+doctor_id,doctor_name,specialty,department_id
+DOC-001,Dr. Maya Rao,Emergency Medicine,DEP-001
+DOC-002,Dr. Aaron Bell,Emergency Medicine,DEP-001
+DOC-003,Dr. Sofia Martinez,Cardiology,DEP-002
+DOC-004,Dr. Thomas Green,Cardiology,DEP-002
+DOC-005,Dr. Nina Patel,Orthopedics,DEP-003
+DOC-006,Dr. Lucas Chen,Orthopedics,DEP-003
+DOC-007,Dr. Elena Rossi,Obstetrics,DEP-004
+DOC-008,Dr. Hannah Okafor,Obstetrics,DEP-004
+DOC-009,Dr. Owen Brooks,Oncology,DEP-005
+DOC-010,Dr. Leila Haddad,Oncology,DEP-005
+DOC-011,Dr. Jacob Wilson,Internal Medicine,DEP-006
+DOC-012,Dr. Priya Shah,Internal Medicine,DEP-006

@@ -1,0 +1,7 @@
+department_id,department_name,department_type,bed_capacity
+DEP-001,Emergency,Acute care,48
+DEP-002,Cardiology,Specialty care,36
+DEP-003,Orthopedics,Specialty care,32
+DEP-004,Maternity,Women and children,28
+DEP-005,Oncology,Specialty care,24
+DEP-006,General Medicine,Acute care,52

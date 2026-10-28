@@ -1,0 +1,1801 @@
+lab_result_id,admission_id,test_name,result_value,result_unit,result_flag
+LAB-00001,ADM-00001,Hemoglobin,5.7,g/dL,Low
+LAB-00002,ADM-00002,Creatinine,7.4,mg/dL,Normal
+LAB-00003,ADM-00003,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00004,ADM-00004,Glucose,10.8,mmol/L,Normal
+LAB-00005,ADM-00005,Hemoglobin,12.5,g/dL,Normal
+LAB-00006,ADM-00006,Creatinine,14.2,mg/dL,Normal
+LAB-00007,ADM-00007,C-Reactive Protein,15.9,mg/L,High
+LAB-00008,ADM-00008,Glucose,17.6,mmol/L,Low
+LAB-00009,ADM-00009,Hemoglobin,19.3,g/dL,Normal
+LAB-00010,ADM-00010,Creatinine,21.0,mg/dL,Normal
+LAB-00011,ADM-00011,C-Reactive Protein,22.7,mg/L,Normal
+LAB-00012,ADM-00012,Glucose,24.4,mmol/L,Normal
+LAB-00013,ADM-00013,Hemoglobin,26.1,g/dL,Normal
+LAB-00014,ADM-00014,Creatinine,27.8,mg/dL,High
+LAB-00015,ADM-00015,C-Reactive Protein,29.5,mg/L,Low
+LAB-00016,ADM-00016,Glucose,31.2,mmol/L,Normal
+LAB-00017,ADM-00017,Hemoglobin,32.9,g/dL,Normal
+LAB-00018,ADM-00018,Creatinine,34.6,mg/dL,Normal
+LAB-00019,ADM-00019,C-Reactive Protein,4.0,mg/L,Normal
+LAB-00020,ADM-00020,Glucose,5.7,mmol/L,Normal
+LAB-00021,ADM-00021,Hemoglobin,7.4,g/dL,High
+LAB-00022,ADM-00022,Creatinine,9.1,mg/dL,Low
+LAB-00023,ADM-00023,C-Reactive Protein,10.8,mg/L,Normal
+LAB-00024,ADM-00024,Glucose,12.5,mmol/L,Normal
+LAB-00025,ADM-00025,Hemoglobin,14.2,g/dL,Normal
+LAB-00026,ADM-00026,Creatinine,15.9,mg/dL,Normal
+LAB-00027,ADM-00027,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00028,ADM-00028,Glucose,19.3,mmol/L,High
+LAB-00029,ADM-00029,Hemoglobin,21.0,g/dL,Low
+LAB-00030,ADM-00030,Creatinine,22.7,mg/dL,Normal
+LAB-00031,ADM-00031,C-Reactive Protein,24.4,mg/L,Normal
+LAB-00032,ADM-00032,Glucose,26.1,mmol/L,Normal
+LAB-00033,ADM-00033,Hemoglobin,27.8,g/dL,Normal
+LAB-00034,ADM-00034,Creatinine,29.5,mg/dL,Normal
+LAB-00035,ADM-00035,C-Reactive Protein,31.2,mg/L,High
+LAB-00036,ADM-00036,Glucose,32.9,mmol/L,Low
+LAB-00037,ADM-00037,Hemoglobin,34.6,g/dL,Normal
+LAB-00038,ADM-00038,Creatinine,4.0,mg/dL,Normal
+LAB-00039,ADM-00039,C-Reactive Protein,5.7,mg/L,Normal
+LAB-00040,ADM-00040,Glucose,7.4,mmol/L,Normal
+LAB-00041,ADM-00041,Hemoglobin,9.1,g/dL,Normal
+LAB-00042,ADM-00042,Creatinine,10.8,mg/dL,High
+LAB-00043,ADM-00043,C-Reactive Protein,12.5,mg/L,Low
+LAB-00044,ADM-00044,Glucose,14.2,mmol/L,Normal
+LAB-00045,ADM-00045,Hemoglobin,15.9,g/dL,Normal
+LAB-00046,ADM-00046,Creatinine,17.6,mg/dL,Normal
+LAB-00047,ADM-00047,C-Reactive Protein,19.3,mg/L,Normal
+LAB-00048,ADM-00048,Glucose,21.0,mmol/L,Normal
+LAB-00049,ADM-00049,Hemoglobin,22.7,g/dL,High
+LAB-00050,ADM-00050,Creatinine,24.4,mg/dL,Low
+LAB-00051,ADM-00051,C-Reactive Protein,26.1,mg/L,Normal
+LAB-00052,ADM-00052,Glucose,27.8,mmol/L,Normal
+LAB-00053,ADM-00053,Hemoglobin,29.5,g/dL,Normal
+LAB-00054,ADM-00054,Creatinine,31.2,mg/dL,Normal
+LAB-00055,ADM-00055,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00056,ADM-00056,Glucose,34.6,mmol/L,High
+LAB-00057,ADM-00057,Hemoglobin,4.0,g/dL,Low
+LAB-00058,ADM-00058,Creatinine,5.7,mg/dL,Normal
+LAB-00059,ADM-00059,C-Reactive Protein,7.4,mg/L,Normal
+LAB-00060,ADM-00060,Glucose,9.1,mmol/L,Normal
+LAB-00061,ADM-00061,Hemoglobin,10.8,g/dL,Normal
+LAB-00062,ADM-00062,Creatinine,12.5,mg/dL,Normal
+LAB-00063,ADM-00063,C-Reactive Protein,14.2,mg/L,High
+LAB-00064,ADM-00064,Glucose,15.9,mmol/L,Low
+LAB-00065,ADM-00065,Hemoglobin,17.6,g/dL,Normal
+LAB-00066,ADM-00066,Creatinine,19.3,mg/dL,Normal
+LAB-00067,ADM-00067,C-Reactive Protein,21.0,mg/L,Normal
+LAB-00068,ADM-00068,Glucose,22.7,mmol/L,Normal
+LAB-00069,ADM-00069,Hemoglobin,24.4,g/dL,Normal
+LAB-00070,ADM-00070,Creatinine,26.1,mg/dL,High
+LAB-00071,ADM-00071,C-Reactive Protein,27.8,mg/L,Low
+LAB-00072,ADM-00072,Glucose,29.5,mmol/L,Normal
+LAB-00073,ADM-00073,Hemoglobin,31.2,g/dL,Normal
+LAB-00074,ADM-00074,Creatinine,32.9,mg/dL,Normal
+LAB-00075,ADM-00075,C-Reactive Protein,34.6,mg/L,Normal
+LAB-00076,ADM-00076,Glucose,4.0,mmol/L,Normal
+LAB-00077,ADM-00077,Hemoglobin,5.7,g/dL,High
+LAB-00078,ADM-00078,Creatinine,7.4,mg/dL,Low
+LAB-00079,ADM-00079,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00080,ADM-00080,Glucose,10.8,mmol/L,Normal
+LAB-00081,ADM-00081,Hemoglobin,12.5,g/dL,Normal
+LAB-00082,ADM-00082,Creatinine,14.2,mg/dL,Normal
+LAB-00083,ADM-00083,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00084,ADM-00084,Glucose,17.6,mmol/L,High
+LAB-00085,ADM-00085,Hemoglobin,19.3,g/dL,Low
+LAB-00086,ADM-00086,Creatinine,21.0,mg/dL,Normal
+LAB-00087,ADM-00087,C-Reactive Protein,22.7,mg/L,Normal
+LAB-00088,ADM-00088,Glucose,24.4,mmol/L,Normal
+LAB-00089,ADM-00089,Hemoglobin,26.1,g/dL,Normal
+LAB-00090,ADM-00090,Creatinine,27.8,mg/dL,Normal
+LAB-00091,ADM-00091,C-Reactive Protein,29.5,mg/L,High
+LAB-00092,ADM-00092,Glucose,31.2,mmol/L,Low
+LAB-00093,ADM-00093,Hemoglobin,32.9,g/dL,Normal
+LAB-00094,ADM-00094,Creatinine,34.6,mg/dL,Normal
+LAB-00095,ADM-00095,C-Reactive Protein,4.0,mg/L,Normal
+LAB-00096,ADM-00096,Glucose,5.7,mmol/L,Normal
+LAB-00097,ADM-00097,Hemoglobin,7.4,g/dL,Normal
+LAB-00098,ADM-00098,Creatinine,9.1,mg/dL,High
+LAB-00099,ADM-00099,C-Reactive Protein,10.8,mg/L,Low
+LAB-00100,ADM-00100,Glucose,12.5,mmol/L,Normal
+LAB-00101,ADM-00101,Hemoglobin,14.2,g/dL,Normal
+LAB-00102,ADM-00102,Creatinine,15.9,mg/dL,Normal
+LAB-00103,ADM-00103,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00104,ADM-00104,Glucose,19.3,mmol/L,Normal
+LAB-00105,ADM-00105,Hemoglobin,21.0,g/dL,High
+LAB-00106,ADM-00106,Creatinine,22.7,mg/dL,Low
+LAB-00107,ADM-00107,C-Reactive Protein,24.4,mg/L,Normal
+LAB-00108,ADM-00108,Glucose,26.1,mmol/L,Normal
+LAB-00109,ADM-00109,Hemoglobin,27.8,g/dL,Normal
+LAB-00110,ADM-00110,Creatinine,29.5,mg/dL,Normal
+LAB-00111,ADM-00111,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00112,ADM-00112,Glucose,32.9,mmol/L,High
+LAB-00113,ADM-00113,Hemoglobin,34.6,g/dL,Low
+LAB-00114,ADM-00114,Creatinine,4.0,mg/dL,Normal
+LAB-00115,ADM-00115,C-Reactive Protein,5.7,mg/L,Normal
+LAB-00116,ADM-00116,Glucose,7.4,mmol/L,Normal
+LAB-00117,ADM-00117,Hemoglobin,9.1,g/dL,Normal
+LAB-00118,ADM-00118,Creatinine,10.8,mg/dL,Normal
+LAB-00119,ADM-00119,C-Reactive Protein,12.5,mg/L,High
+LAB-00120,ADM-00120,Glucose,14.2,mmol/L,Low
+LAB-00121,ADM-00121,Hemoglobin,15.9,g/dL,Normal
+LAB-00122,ADM-00122,Creatinine,17.6,mg/dL,Normal
+LAB-00123,ADM-00123,C-Reactive Protein,19.3,mg/L,Normal
+LAB-00124,ADM-00124,Glucose,21.0,mmol/L,Normal
+LAB-00125,ADM-00125,Hemoglobin,22.7,g/dL,Normal
+LAB-00126,ADM-00126,Creatinine,24.4,mg/dL,High
+LAB-00127,ADM-00127,C-Reactive Protein,26.1,mg/L,Low
+LAB-00128,ADM-00128,Glucose,27.8,mmol/L,Normal
+LAB-00129,ADM-00129,Hemoglobin,29.5,g/dL,Normal
+LAB-00130,ADM-00130,Creatinine,31.2,mg/dL,Normal
+LAB-00131,ADM-00131,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00132,ADM-00132,Glucose,34.6,mmol/L,Normal
+LAB-00133,ADM-00133,Hemoglobin,4.0,g/dL,High
+LAB-00134,ADM-00134,Creatinine,5.7,mg/dL,Low
+LAB-00135,ADM-00135,C-Reactive Protein,7.4,mg/L,Normal
+LAB-00136,ADM-00136,Glucose,9.1,mmol/L,Normal
+LAB-00137,ADM-00137,Hemoglobin,10.8,g/dL,Normal
+LAB-00138,ADM-00138,Creatinine,12.5,mg/dL,Normal
+LAB-00139,ADM-00139,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00140,ADM-00140,Glucose,15.9,mmol/L,High
+LAB-00141,ADM-00141,Hemoglobin,17.6,g/dL,Low
+LAB-00142,ADM-00142,Creatinine,19.3,mg/dL,Normal
+LAB-00143,ADM-00143,C-Reactive Protein,21.0,mg/L,Normal
+LAB-00144,ADM-00144,Glucose,22.7,mmol/L,Normal
+LAB-00145,ADM-00145,Hemoglobin,24.4,g/dL,Normal
+LAB-00146,ADM-00146,Creatinine,26.1,mg/dL,Normal
+LAB-00147,ADM-00147,C-Reactive Protein,27.8,mg/L,High
+LAB-00148,ADM-00148,Glucose,29.5,mmol/L,Low
+LAB-00149,ADM-00149,Hemoglobin,31.2,g/dL,Normal
+LAB-00150,ADM-00150,Creatinine,32.9,mg/dL,Normal
+LAB-00151,ADM-00151,C-Reactive Protein,34.6,mg/L,Normal
+LAB-00152,ADM-00152,Glucose,4.0,mmol/L,Normal
+LAB-00153,ADM-00153,Hemoglobin,5.7,g/dL,Normal
+LAB-00154,ADM-00154,Creatinine,7.4,mg/dL,High
+LAB-00155,ADM-00155,C-Reactive Protein,9.1,mg/L,Low
+LAB-00156,ADM-00156,Glucose,10.8,mmol/L,Normal
+LAB-00157,ADM-00157,Hemoglobin,12.5,g/dL,Normal
+LAB-00158,ADM-00158,Creatinine,14.2,mg/dL,Normal
+LAB-00159,ADM-00159,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00160,ADM-00160,Glucose,17.6,mmol/L,Normal
+LAB-00161,ADM-00161,Hemoglobin,19.3,g/dL,High
+LAB-00162,ADM-00162,Creatinine,21.0,mg/dL,Low
+LAB-00163,ADM-00163,C-Reactive Protein,22.7,mg/L,Normal
+LAB-00164,ADM-00164,Glucose,24.4,mmol/L,Normal
+LAB-00165,ADM-00165,Hemoglobin,26.1,g/dL,Normal
+LAB-00166,ADM-00166,Creatinine,27.8,mg/dL,Normal
+LAB-00167,ADM-00167,C-Reactive Protein,29.5,mg/L,Normal
+LAB-00168,ADM-00168,Glucose,31.2,mmol/L,High
+LAB-00169,ADM-00169,Hemoglobin,32.9,g/dL,Low
+LAB-00170,ADM-00170,Creatinine,34.6,mg/dL,Normal
+LAB-00171,ADM-00171,C-Reactive Protein,4.0,mg/L,Normal
+LAB-00172,ADM-00172,Glucose,5.7,mmol/L,Normal
+LAB-00173,ADM-00173,Hemoglobin,7.4,g/dL,Normal
+LAB-00174,ADM-00174,Creatinine,9.1,mg/dL,Normal
+LAB-00175,ADM-00175,C-Reactive Protein,10.8,mg/L,High
+LAB-00176,ADM-00176,Glucose,12.5,mmol/L,Low
+LAB-00177,ADM-00177,Hemoglobin,14.2,g/dL,Normal
+LAB-00178,ADM-00178,Creatinine,15.9,mg/dL,Normal
+LAB-00179,ADM-00179,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00180,ADM-00180,Glucose,19.3,mmol/L,Normal
+LAB-00181,ADM-00181,Hemoglobin,21.0,g/dL,Normal
+LAB-00182,ADM-00182,Creatinine,22.7,mg/dL,High
+LAB-00183,ADM-00183,C-Reactive Protein,24.4,mg/L,Low
+LAB-00184,ADM-00184,Glucose,26.1,mmol/L,Normal
+LAB-00185,ADM-00185,Hemoglobin,27.8,g/dL,Normal
+LAB-00186,ADM-00186,Creatinine,29.5,mg/dL,Normal
+LAB-00187,ADM-00187,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00188,ADM-00188,Glucose,32.9,mmol/L,Normal
+LAB-00189,ADM-00189,Hemoglobin,34.6,g/dL,High
+LAB-00190,ADM-00190,Creatinine,4.0,mg/dL,Low
+LAB-00191,ADM-00191,C-Reactive Protein,5.7,mg/L,Normal
+LAB-00192,ADM-00192,Glucose,7.4,mmol/L,Normal
+LAB-00193,ADM-00193,Hemoglobin,9.1,g/dL,Normal
+LAB-00194,ADM-00194,Creatinine,10.8,mg/dL,Normal
+LAB-00195,ADM-00195,C-Reactive Protein,12.5,mg/L,Normal
+LAB-00196,ADM-00196,Glucose,14.2,mmol/L,High
+LAB-00197,ADM-00197,Hemoglobin,15.9,g/dL,Low
+LAB-00198,ADM-00198,Creatinine,17.6,mg/dL,Normal
+LAB-00199,ADM-00199,C-Reactive Protein,19.3,mg/L,Normal
+LAB-00200,ADM-00200,Glucose,21.0,mmol/L,Normal
+LAB-00201,ADM-00201,Hemoglobin,22.7,g/dL,Normal
+LAB-00202,ADM-00202,Creatinine,24.4,mg/dL,Normal
+LAB-00203,ADM-00203,C-Reactive Protein,26.1,mg/L,High
+LAB-00204,ADM-00204,Glucose,27.8,mmol/L,Low
+LAB-00205,ADM-00205,Hemoglobin,29.5,g/dL,Normal
+LAB-00206,ADM-00206,Creatinine,31.2,mg/dL,Normal
+LAB-00207,ADM-00207,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00208,ADM-00208,Glucose,34.6,mmol/L,Normal
+LAB-00209,ADM-00209,Hemoglobin,4.0,g/dL,Normal
+LAB-00210,ADM-00210,Creatinine,5.7,mg/dL,High
+LAB-00211,ADM-00211,C-Reactive Protein,7.4,mg/L,Low
+LAB-00212,ADM-00212,Glucose,9.1,mmol/L,Normal
+LAB-00213,ADM-00213,Hemoglobin,10.8,g/dL,Normal
+LAB-00214,ADM-00214,Creatinine,12.5,mg/dL,Normal
+LAB-00215,ADM-00215,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00216,ADM-00216,Glucose,15.9,mmol/L,Normal
+LAB-00217,ADM-00217,Hemoglobin,17.6,g/dL,High
+LAB-00218,ADM-00218,Creatinine,19.3,mg/dL,Low
+LAB-00219,ADM-00219,C-Reactive Protein,21.0,mg/L,Normal
+LAB-00220,ADM-00220,Glucose,22.7,mmol/L,Normal
+LAB-00221,ADM-00221,Hemoglobin,24.4,g/dL,Normal
+LAB-00222,ADM-00222,Creatinine,26.1,mg/dL,Normal
+LAB-00223,ADM-00223,C-Reactive Protein,27.8,mg/L,Normal
+LAB-00224,ADM-00224,Glucose,29.5,mmol/L,High
+LAB-00225,ADM-00225,Hemoglobin,31.2,g/dL,Low
+LAB-00226,ADM-00226,Creatinine,32.9,mg/dL,Normal
+LAB-00227,ADM-00227,C-Reactive Protein,34.6,mg/L,Normal
+LAB-00228,ADM-00228,Glucose,4.0,mmol/L,Normal
+LAB-00229,ADM-00229,Hemoglobin,5.7,g/dL,Normal
+LAB-00230,ADM-00230,Creatinine,7.4,mg/dL,Normal
+LAB-00231,ADM-00231,C-Reactive Protein,9.1,mg/L,High
+LAB-00232,ADM-00232,Glucose,10.8,mmol/L,Low
+LAB-00233,ADM-00233,Hemoglobin,12.5,g/dL,Normal
+LAB-00234,ADM-00234,Creatinine,14.2,mg/dL,Normal
+LAB-00235,ADM-00235,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00236,ADM-00236,Glucose,17.6,mmol/L,Normal
+LAB-00237,ADM-00237,Hemoglobin,19.3,g/dL,Normal
+LAB-00238,ADM-00238,Creatinine,21.0,mg/dL,High
+LAB-00239,ADM-00239,C-Reactive Protein,22.7,mg/L,Low
+LAB-00240,ADM-00240,Glucose,24.4,mmol/L,Normal
+LAB-00241,ADM-00241,Hemoglobin,26.1,g/dL,Normal
+LAB-00242,ADM-00242,Creatinine,27.8,mg/dL,Normal
+LAB-00243,ADM-00243,C-Reactive Protein,29.5,mg/L,Normal
+LAB-00244,ADM-00244,Glucose,31.2,mmol/L,Normal
+LAB-00245,ADM-00245,Hemoglobin,32.9,g/dL,High
+LAB-00246,ADM-00246,Creatinine,34.6,mg/dL,Low
+LAB-00247,ADM-00247,C-Reactive Protein,4.0,mg/L,Normal
+LAB-00248,ADM-00248,Glucose,5.7,mmol/L,Normal
+LAB-00249,ADM-00249,Hemoglobin,7.4,g/dL,Normal
+LAB-00250,ADM-00250,Creatinine,9.1,mg/dL,Normal
+LAB-00251,ADM-00251,C-Reactive Protein,10.8,mg/L,Normal
+LAB-00252,ADM-00252,Glucose,12.5,mmol/L,High
+LAB-00253,ADM-00253,Hemoglobin,14.2,g/dL,Low
+LAB-00254,ADM-00254,Creatinine,15.9,mg/dL,Normal
+LAB-00255,ADM-00255,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00256,ADM-00256,Glucose,19.3,mmol/L,Normal
+LAB-00257,ADM-00257,Hemoglobin,21.0,g/dL,Normal
+LAB-00258,ADM-00258,Creatinine,22.7,mg/dL,Normal
+LAB-00259,ADM-00259,C-Reactive Protein,24.4,mg/L,High
+LAB-00260,ADM-00260,Glucose,26.1,mmol/L,Low
+LAB-00261,ADM-00261,Hemoglobin,27.8,g/dL,Normal
+LAB-00262,ADM-00262,Creatinine,29.5,mg/dL,Normal
+LAB-00263,ADM-00263,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00264,ADM-00264,Glucose,32.9,mmol/L,Normal
+LAB-00265,ADM-00265,Hemoglobin,34.6,g/dL,Normal
+LAB-00266,ADM-00266,Creatinine,4.0,mg/dL,High
+LAB-00267,ADM-00267,C-Reactive Protein,5.7,mg/L,Low
+LAB-00268,ADM-00268,Glucose,7.4,mmol/L,Normal
+LAB-00269,ADM-00269,Hemoglobin,9.1,g/dL,Normal
+LAB-00270,ADM-00270,Creatinine,10.8,mg/dL,Normal
+LAB-00271,ADM-00271,C-Reactive Protein,12.5,mg/L,Normal
+LAB-00272,ADM-00272,Glucose,14.2,mmol/L,Normal
+LAB-00273,ADM-00273,Hemoglobin,15.9,g/dL,High
+LAB-00274,ADM-00274,Creatinine,17.6,mg/dL,Low
+LAB-00275,ADM-00275,C-Reactive Protein,19.3,mg/L,Normal
+LAB-00276,ADM-00276,Glucose,21.0,mmol/L,Normal
+LAB-00277,ADM-00277,Hemoglobin,22.7,g/dL,Normal
+LAB-00278,ADM-00278,Creatinine,24.4,mg/dL,Normal
+LAB-00279,ADM-00279,C-Reactive Protein,26.1,mg/L,Normal
+LAB-00280,ADM-00280,Glucose,27.8,mmol/L,High
+LAB-00281,ADM-00281,Hemoglobin,29.5,g/dL,Low
+LAB-00282,ADM-00282,Creatinine,31.2,mg/dL,Normal
+LAB-00283,ADM-00283,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00284,ADM-00284,Glucose,34.6,mmol/L,Normal
+LAB-00285,ADM-00285,Hemoglobin,4.0,g/dL,Normal
+LAB-00286,ADM-00286,Creatinine,5.7,mg/dL,Normal
+LAB-00287,ADM-00287,C-Reactive Protein,7.4,mg/L,High
+LAB-00288,ADM-00288,Glucose,9.1,mmol/L,Low
+LAB-00289,ADM-00289,Hemoglobin,10.8,g/dL,Normal
+LAB-00290,ADM-00290,Creatinine,12.5,mg/dL,Normal
+LAB-00291,ADM-00291,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00292,ADM-00292,Glucose,15.9,mmol/L,Normal
+LAB-00293,ADM-00293,Hemoglobin,17.6,g/dL,Normal
+LAB-00294,ADM-00294,Creatinine,19.3,mg/dL,High
+LAB-00295,ADM-00295,C-Reactive Protein,21.0,mg/L,Low
+LAB-00296,ADM-00296,Glucose,22.7,mmol/L,Normal
+LAB-00297,ADM-00297,Hemoglobin,24.4,g/dL,Normal
+LAB-00298,ADM-00298,Creatinine,26.1,mg/dL,Normal
+LAB-00299,ADM-00299,C-Reactive Protein,27.8,mg/L,Normal
+LAB-00300,ADM-00300,Glucose,29.5,mmol/L,Normal
+LAB-00301,ADM-00301,Hemoglobin,31.2,g/dL,High
+LAB-00302,ADM-00302,Creatinine,32.9,mg/dL,Low
+LAB-00303,ADM-00303,C-Reactive Protein,34.6,mg/L,Normal
+LAB-00304,ADM-00304,Glucose,4.0,mmol/L,Normal
+LAB-00305,ADM-00305,Hemoglobin,5.7,g/dL,Normal
+LAB-00306,ADM-00306,Creatinine,7.4,mg/dL,Normal
+LAB-00307,ADM-00307,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00308,ADM-00308,Glucose,10.8,mmol/L,High
+LAB-00309,ADM-00309,Hemoglobin,12.5,g/dL,Low
+LAB-00310,ADM-00310,Creatinine,14.2,mg/dL,Normal
+LAB-00311,ADM-00311,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00312,ADM-00312,Glucose,17.6,mmol/L,Normal
+LAB-00313,ADM-00313,Hemoglobin,19.3,g/dL,Normal
+LAB-00314,ADM-00314,Creatinine,21.0,mg/dL,Normal
+LAB-00315,ADM-00315,C-Reactive Protein,22.7,mg/L,High
+LAB-00316,ADM-00316,Glucose,24.4,mmol/L,Low
+LAB-00317,ADM-00317,Hemoglobin,26.1,g/dL,Normal
+LAB-00318,ADM-00318,Creatinine,27.8,mg/dL,Normal
+LAB-00319,ADM-00319,C-Reactive Protein,29.5,mg/L,Normal
+LAB-00320,ADM-00320,Glucose,31.2,mmol/L,Normal
+LAB-00321,ADM-00321,Hemoglobin,32.9,g/dL,Normal
+LAB-00322,ADM-00322,Creatinine,34.6,mg/dL,High
+LAB-00323,ADM-00323,C-Reactive Protein,4.0,mg/L,Low
+LAB-00324,ADM-00324,Glucose,5.7,mmol/L,Normal
+LAB-00325,ADM-00325,Hemoglobin,7.4,g/dL,Normal
+LAB-00326,ADM-00326,Creatinine,9.1,mg/dL,Normal
+LAB-00327,ADM-00327,C-Reactive Protein,10.8,mg/L,Normal
+LAB-00328,ADM-00328,Glucose,12.5,mmol/L,Normal
+LAB-00329,ADM-00329,Hemoglobin,14.2,g/dL,High
+LAB-00330,ADM-00330,Creatinine,15.9,mg/dL,Low
+LAB-00331,ADM-00331,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00332,ADM-00332,Glucose,19.3,mmol/L,Normal
+LAB-00333,ADM-00333,Hemoglobin,21.0,g/dL,Normal
+LAB-00334,ADM-00334,Creatinine,22.7,mg/dL,Normal
+LAB-00335,ADM-00335,C-Reactive Protein,24.4,mg/L,Normal
+LAB-00336,ADM-00336,Glucose,26.1,mmol/L,High
+LAB-00337,ADM-00337,Hemoglobin,27.8,g/dL,Low
+LAB-00338,ADM-00338,Creatinine,29.5,mg/dL,Normal
+LAB-00339,ADM-00339,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00340,ADM-00340,Glucose,32.9,mmol/L,Normal
+LAB-00341,ADM-00341,Hemoglobin,34.6,g/dL,Normal
+LAB-00342,ADM-00342,Creatinine,4.0,mg/dL,Normal
+LAB-00343,ADM-00343,C-Reactive Protein,5.7,mg/L,High
+LAB-00344,ADM-00344,Glucose,7.4,mmol/L,Low
+LAB-00345,ADM-00345,Hemoglobin,9.1,g/dL,Normal
+LAB-00346,ADM-00346,Creatinine,10.8,mg/dL,Normal
+LAB-00347,ADM-00347,C-Reactive Protein,12.5,mg/L,Normal
+LAB-00348,ADM-00348,Glucose,14.2,mmol/L,Normal
+LAB-00349,ADM-00349,Hemoglobin,15.9,g/dL,Normal
+LAB-00350,ADM-00350,Creatinine,17.6,mg/dL,High
+LAB-00351,ADM-00351,C-Reactive Protein,19.3,mg/L,Low
+LAB-00352,ADM-00352,Glucose,21.0,mmol/L,Normal
+LAB-00353,ADM-00353,Hemoglobin,22.7,g/dL,Normal
+LAB-00354,ADM-00354,Creatinine,24.4,mg/dL,Normal
+LAB-00355,ADM-00355,C-Reactive Protein,26.1,mg/L,Normal
+LAB-00356,ADM-00356,Glucose,27.8,mmol/L,Normal
+LAB-00357,ADM-00357,Hemoglobin,29.5,g/dL,High
+LAB-00358,ADM-00358,Creatinine,31.2,mg/dL,Low
+LAB-00359,ADM-00359,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00360,ADM-00360,Glucose,34.6,mmol/L,Normal
+LAB-00361,ADM-00361,Hemoglobin,4.0,g/dL,Normal
+LAB-00362,ADM-00362,Creatinine,5.7,mg/dL,Normal
+LAB-00363,ADM-00363,C-Reactive Protein,7.4,mg/L,Normal
+LAB-00364,ADM-00364,Glucose,9.1,mmol/L,High
+LAB-00365,ADM-00365,Hemoglobin,10.8,g/dL,Low
+LAB-00366,ADM-00366,Creatinine,12.5,mg/dL,Normal
+LAB-00367,ADM-00367,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00368,ADM-00368,Glucose,15.9,mmol/L,Normal
+LAB-00369,ADM-00369,Hemoglobin,17.6,g/dL,Normal
+LAB-00370,ADM-00370,Creatinine,19.3,mg/dL,Normal
+LAB-00371,ADM-00371,C-Reactive Protein,21.0,mg/L,High
+LAB-00372,ADM-00372,Glucose,22.7,mmol/L,Low
+LAB-00373,ADM-00373,Hemoglobin,24.4,g/dL,Normal
+LAB-00374,ADM-00374,Creatinine,26.1,mg/dL,Normal
+LAB-00375,ADM-00375,C-Reactive Protein,27.8,mg/L,Normal
+LAB-00376,ADM-00376,Glucose,29.5,mmol/L,Normal
+LAB-00377,ADM-00377,Hemoglobin,31.2,g/dL,Normal
+LAB-00378,ADM-00378,Creatinine,32.9,mg/dL,High
+LAB-00379,ADM-00379,C-Reactive Protein,34.6,mg/L,Low
+LAB-00380,ADM-00380,Glucose,4.0,mmol/L,Normal
+LAB-00381,ADM-00381,Hemoglobin,5.7,g/dL,Normal
+LAB-00382,ADM-00382,Creatinine,7.4,mg/dL,Normal
+LAB-00383,ADM-00383,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00384,ADM-00384,Glucose,10.8,mmol/L,Normal
+LAB-00385,ADM-00385,Hemoglobin,12.5,g/dL,High
+LAB-00386,ADM-00386,Creatinine,14.2,mg/dL,Low
+LAB-00387,ADM-00387,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00388,ADM-00388,Glucose,17.6,mmol/L,Normal
+LAB-00389,ADM-00389,Hemoglobin,19.3,g/dL,Normal
+LAB-00390,ADM-00390,Creatinine,21.0,mg/dL,Normal
+LAB-00391,ADM-00391,C-Reactive Protein,22.7,mg/L,Normal
+LAB-00392,ADM-00392,Glucose,24.4,mmol/L,High
+LAB-00393,ADM-00393,Hemoglobin,26.1,g/dL,Low
+LAB-00394,ADM-00394,Creatinine,27.8,mg/dL,Normal
+LAB-00395,ADM-00395,C-Reactive Protein,29.5,mg/L,Normal
+LAB-00396,ADM-00396,Glucose,31.2,mmol/L,Normal
+LAB-00397,ADM-00397,Hemoglobin,32.9,g/dL,Normal
+LAB-00398,ADM-00398,Creatinine,34.6,mg/dL,Normal
+LAB-00399,ADM-00399,C-Reactive Protein,4.0,mg/L,High
+LAB-00400,ADM-00400,Glucose,5.7,mmol/L,Low
+LAB-00401,ADM-00401,Hemoglobin,7.4,g/dL,Normal
+LAB-00402,ADM-00402,Creatinine,9.1,mg/dL,Normal
+LAB-00403,ADM-00403,C-Reactive Protein,10.8,mg/L,Normal
+LAB-00404,ADM-00404,Glucose,12.5,mmol/L,Normal
+LAB-00405,ADM-00405,Hemoglobin,14.2,g/dL,Normal
+LAB-00406,ADM-00406,Creatinine,15.9,mg/dL,High
+LAB-00407,ADM-00407,C-Reactive Protein,17.6,mg/L,Low
+LAB-00408,ADM-00408,Glucose,19.3,mmol/L,Normal
+LAB-00409,ADM-00409,Hemoglobin,21.0,g/dL,Normal
+LAB-00410,ADM-00410,Creatinine,22.7,mg/dL,Normal
+LAB-00411,ADM-00411,C-Reactive Protein,24.4,mg/L,Normal
+LAB-00412,ADM-00412,Glucose,26.1,mmol/L,Normal
+LAB-00413,ADM-00413,Hemoglobin,27.8,g/dL,High
+LAB-00414,ADM-00414,Creatinine,29.5,mg/dL,Low
+LAB-00415,ADM-00415,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00416,ADM-00416,Glucose,32.9,mmol/L,Normal
+LAB-00417,ADM-00417,Hemoglobin,34.6,g/dL,Normal
+LAB-00418,ADM-00418,Creatinine,4.0,mg/dL,Normal
+LAB-00419,ADM-00419,C-Reactive Protein,5.7,mg/L,Normal
+LAB-00420,ADM-00420,Glucose,7.4,mmol/L,High
+LAB-00421,ADM-00421,Hemoglobin,9.1,g/dL,Low
+LAB-00422,ADM-00422,Creatinine,10.8,mg/dL,Normal
+LAB-00423,ADM-00423,C-Reactive Protein,12.5,mg/L,Normal
+LAB-00424,ADM-00424,Glucose,14.2,mmol/L,Normal
+LAB-00425,ADM-00425,Hemoglobin,15.9,g/dL,Normal
+LAB-00426,ADM-00426,Creatinine,17.6,mg/dL,Normal
+LAB-00427,ADM-00427,C-Reactive Protein,19.3,mg/L,High
+LAB-00428,ADM-00428,Glucose,21.0,mmol/L,Low
+LAB-00429,ADM-00429,Hemoglobin,22.7,g/dL,Normal
+LAB-00430,ADM-00430,Creatinine,24.4,mg/dL,Normal
+LAB-00431,ADM-00431,C-Reactive Protein,26.1,mg/L,Normal
+LAB-00432,ADM-00432,Glucose,27.8,mmol/L,Normal
+LAB-00433,ADM-00433,Hemoglobin,29.5,g/dL,Normal
+LAB-00434,ADM-00434,Creatinine,31.2,mg/dL,High
+LAB-00435,ADM-00435,C-Reactive Protein,32.9,mg/L,Low
+LAB-00436,ADM-00436,Glucose,34.6,mmol/L,Normal
+LAB-00437,ADM-00437,Hemoglobin,4.0,g/dL,Normal
+LAB-00438,ADM-00438,Creatinine,5.7,mg/dL,Normal
+LAB-00439,ADM-00439,C-Reactive Protein,7.4,mg/L,Normal
+LAB-00440,ADM-00440,Glucose,9.1,mmol/L,Normal
+LAB-00441,ADM-00441,Hemoglobin,10.8,g/dL,High
+LAB-00442,ADM-00442,Creatinine,12.5,mg/dL,Low
+LAB-00443,ADM-00443,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00444,ADM-00444,Glucose,15.9,mmol/L,Normal
+LAB-00445,ADM-00445,Hemoglobin,17.6,g/dL,Normal
+LAB-00446,ADM-00446,Creatinine,19.3,mg/dL,Normal
+LAB-00447,ADM-00447,C-Reactive Protein,21.0,mg/L,Normal
+LAB-00448,ADM-00448,Glucose,22.7,mmol/L,High
+LAB-00449,ADM-00449,Hemoglobin,24.4,g/dL,Low
+LAB-00450,ADM-00450,Creatinine,26.1,mg/dL,Normal
+LAB-00451,ADM-00451,C-Reactive Protein,27.8,mg/L,Normal
+LAB-00452,ADM-00452,Glucose,29.5,mmol/L,Normal
+LAB-00453,ADM-00453,Hemoglobin,31.2,g/dL,Normal
+LAB-00454,ADM-00454,Creatinine,32.9,mg/dL,Normal
+LAB-00455,ADM-00455,C-Reactive Protein,34.6,mg/L,High
+LAB-00456,ADM-00456,Glucose,4.0,mmol/L,Low
+LAB-00457,ADM-00457,Hemoglobin,5.7,g/dL,Normal
+LAB-00458,ADM-00458,Creatinine,7.4,mg/dL,Normal
+LAB-00459,ADM-00459,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00460,ADM-00460,Glucose,10.8,mmol/L,Normal
+LAB-00461,ADM-00461,Hemoglobin,12.5,g/dL,Normal
+LAB-00462,ADM-00462,Creatinine,14.2,mg/dL,High
+LAB-00463,ADM-00463,C-Reactive Protein,15.9,mg/L,Low
+LAB-00464,ADM-00464,Glucose,17.6,mmol/L,Normal
+LAB-00465,ADM-00465,Hemoglobin,19.3,g/dL,Normal
+LAB-00466,ADM-00466,Creatinine,21.0,mg/dL,Normal
+LAB-00467,ADM-00467,C-Reactive Protein,22.7,mg/L,Normal
+LAB-00468,ADM-00468,Glucose,24.4,mmol/L,Normal
+LAB-00469,ADM-00469,Hemoglobin,26.1,g/dL,High
+LAB-00470,ADM-00470,Creatinine,27.8,mg/dL,Low
+LAB-00471,ADM-00471,C-Reactive Protein,29.5,mg/L,Normal
+LAB-00472,ADM-00472,Glucose,31.2,mmol/L,Normal
+LAB-00473,ADM-00473,Hemoglobin,32.9,g/dL,Normal
+LAB-00474,ADM-00474,Creatinine,34.6,mg/dL,Normal
+LAB-00475,ADM-00475,C-Reactive Protein,4.0,mg/L,Normal
+LAB-00476,ADM-00476,Glucose,5.7,mmol/L,High
+LAB-00477,ADM-00477,Hemoglobin,7.4,g/dL,Low
+LAB-00478,ADM-00478,Creatinine,9.1,mg/dL,Normal
+LAB-00479,ADM-00479,C-Reactive Protein,10.8,mg/L,Normal
+LAB-00480,ADM-00480,Glucose,12.5,mmol/L,Normal
+LAB-00481,ADM-00481,Hemoglobin,14.2,g/dL,Normal
+LAB-00482,ADM-00482,Creatinine,15.9,mg/dL,Normal
+LAB-00483,ADM-00483,C-Reactive Protein,17.6,mg/L,High
+LAB-00484,ADM-00484,Glucose,19.3,mmol/L,Low
+LAB-00485,ADM-00485,Hemoglobin,21.0,g/dL,Normal
+LAB-00486,ADM-00486,Creatinine,22.7,mg/dL,Normal
+LAB-00487,ADM-00487,C-Reactive Protein,24.4,mg/L,Normal
+LAB-00488,ADM-00488,Glucose,26.1,mmol/L,Normal
+LAB-00489,ADM-00489,Hemoglobin,27.8,g/dL,Normal
+LAB-00490,ADM-00490,Creatinine,29.5,mg/dL,High
+LAB-00491,ADM-00491,C-Reactive Protein,31.2,mg/L,Low
+LAB-00492,ADM-00492,Glucose,32.9,mmol/L,Normal
+LAB-00493,ADM-00493,Hemoglobin,34.6,g/dL,Normal
+LAB-00494,ADM-00494,Creatinine,4.0,mg/dL,Normal
+LAB-00495,ADM-00495,C-Reactive Protein,5.7,mg/L,Normal
+LAB-00496,ADM-00496,Glucose,7.4,mmol/L,Normal
+LAB-00497,ADM-00497,Hemoglobin,9.1,g/dL,High
+LAB-00498,ADM-00498,Creatinine,10.8,mg/dL,Low
+LAB-00499,ADM-00499,C-Reactive Protein,12.5,mg/L,Normal
+LAB-00500,ADM-00500,Glucose,14.2,mmol/L,Normal
+LAB-00501,ADM-00501,Hemoglobin,15.9,g/dL,Normal
+LAB-00502,ADM-00502,Creatinine,17.6,mg/dL,Normal
+LAB-00503,ADM-00503,C-Reactive Protein,19.3,mg/L,Normal
+LAB-00504,ADM-00504,Glucose,21.0,mmol/L,High
+LAB-00505,ADM-00505,Hemoglobin,22.7,g/dL,Low
+LAB-00506,ADM-00506,Creatinine,24.4,mg/dL,Normal
+LAB-00507,ADM-00507,C-Reactive Protein,26.1,mg/L,Normal
+LAB-00508,ADM-00508,Glucose,27.8,mmol/L,Normal
+LAB-00509,ADM-00509,Hemoglobin,29.5,g/dL,Normal
+LAB-00510,ADM-00510,Creatinine,31.2,mg/dL,Normal
+LAB-00511,ADM-00511,C-Reactive Protein,32.9,mg/L,High
+LAB-00512,ADM-00512,Glucose,34.6,mmol/L,Low
+LAB-00513,ADM-00513,Hemoglobin,4.0,g/dL,Normal
+LAB-00514,ADM-00514,Creatinine,5.7,mg/dL,Normal
+LAB-00515,ADM-00515,C-Reactive Protein,7.4,mg/L,Normal
+LAB-00516,ADM-00516,Glucose,9.1,mmol/L,Normal
+LAB-00517,ADM-00517,Hemoglobin,10.8,g/dL,Normal
+LAB-00518,ADM-00518,Creatinine,12.5,mg/dL,High
+LAB-00519,ADM-00519,C-Reactive Protein,14.2,mg/L,Low
+LAB-00520,ADM-00520,Glucose,15.9,mmol/L,Normal
+LAB-00521,ADM-00521,Hemoglobin,17.6,g/dL,Normal
+LAB-00522,ADM-00522,Creatinine,19.3,mg/dL,Normal
+LAB-00523,ADM-00523,C-Reactive Protein,21.0,mg/L,Normal
+LAB-00524,ADM-00524,Glucose,22.7,mmol/L,Normal
+LAB-00525,ADM-00525,Hemoglobin,24.4,g/dL,High
+LAB-00526,ADM-00526,Creatinine,26.1,mg/dL,Low
+LAB-00527,ADM-00527,C-Reactive Protein,27.8,mg/L,Normal
+LAB-00528,ADM-00528,Glucose,29.5,mmol/L,Normal
+LAB-00529,ADM-00529,Hemoglobin,31.2,g/dL,Normal
+LAB-00530,ADM-00530,Creatinine,32.9,mg/dL,Normal
+LAB-00531,ADM-00531,C-Reactive Protein,34.6,mg/L,Normal
+LAB-00532,ADM-00532,Glucose,4.0,mmol/L,High
+LAB-00533,ADM-00533,Hemoglobin,5.7,g/dL,Low
+LAB-00534,ADM-00534,Creatinine,7.4,mg/dL,Normal
+LAB-00535,ADM-00535,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00536,ADM-00536,Glucose,10.8,mmol/L,Normal
+LAB-00537,ADM-00537,Hemoglobin,12.5,g/dL,Normal
+LAB-00538,ADM-00538,Creatinine,14.2,mg/dL,Normal
+LAB-00539,ADM-00539,C-Reactive Protein,15.9,mg/L,High
+LAB-00540,ADM-00540,Glucose,17.6,mmol/L,Low
+LAB-00541,ADM-00541,Hemoglobin,19.3,g/dL,Normal
+LAB-00542,ADM-00542,Creatinine,21.0,mg/dL,Normal
+LAB-00543,ADM-00543,C-Reactive Protein,22.7,mg/L,Normal
+LAB-00544,ADM-00544,Glucose,24.4,mmol/L,Normal
+LAB-00545,ADM-00545,Hemoglobin,26.1,g/dL,Normal
+LAB-00546,ADM-00546,Creatinine,27.8,mg/dL,High
+LAB-00547,ADM-00547,C-Reactive Protein,29.5,mg/L,Low
+LAB-00548,ADM-00548,Glucose,31.2,mmol/L,Normal
+LAB-00549,ADM-00549,Hemoglobin,32.9,g/dL,Normal
+LAB-00550,ADM-00550,Creatinine,34.6,mg/dL,Normal
+LAB-00551,ADM-00551,C-Reactive Protein,4.0,mg/L,Normal
+LAB-00552,ADM-00552,Glucose,5.7,mmol/L,Normal
+LAB-00553,ADM-00553,Hemoglobin,7.4,g/dL,High
+LAB-00554,ADM-00554,Creatinine,9.1,mg/dL,Low
+LAB-00555,ADM-00555,C-Reactive Protein,10.8,mg/L,Normal
+LAB-00556,ADM-00556,Glucose,12.5,mmol/L,Normal
+LAB-00557,ADM-00557,Hemoglobin,14.2,g/dL,Normal
+LAB-00558,ADM-00558,Creatinine,15.9,mg/dL,Normal
+LAB-00559,ADM-00559,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00560,ADM-00560,Glucose,19.3,mmol/L,High
+LAB-00561,ADM-00561,Hemoglobin,21.0,g/dL,Low
+LAB-00562,ADM-00562,Creatinine,22.7,mg/dL,Normal
+LAB-00563,ADM-00563,C-Reactive Protein,24.4,mg/L,Normal
+LAB-00564,ADM-00564,Glucose,26.1,mmol/L,Normal
+LAB-00565,ADM-00565,Hemoglobin,27.8,g/dL,Normal
+LAB-00566,ADM-00566,Creatinine,29.5,mg/dL,Normal
+LAB-00567,ADM-00567,C-Reactive Protein,31.2,mg/L,High
+LAB-00568,ADM-00568,Glucose,32.9,mmol/L,Low
+LAB-00569,ADM-00569,Hemoglobin,34.6,g/dL,Normal
+LAB-00570,ADM-00570,Creatinine,4.0,mg/dL,Normal
+LAB-00571,ADM-00571,C-Reactive Protein,5.7,mg/L,Normal
+LAB-00572,ADM-00572,Glucose,7.4,mmol/L,Normal
+LAB-00573,ADM-00573,Hemoglobin,9.1,g/dL,Normal
+LAB-00574,ADM-00574,Creatinine,10.8,mg/dL,High
+LAB-00575,ADM-00575,C-Reactive Protein,12.5,mg/L,Low
+LAB-00576,ADM-00576,Glucose,14.2,mmol/L,Normal
+LAB-00577,ADM-00577,Hemoglobin,15.9,g/dL,Normal
+LAB-00578,ADM-00578,Creatinine,17.6,mg/dL,Normal
+LAB-00579,ADM-00579,C-Reactive Protein,19.3,mg/L,Normal
+LAB-00580,ADM-00580,Glucose,21.0,mmol/L,Normal
+LAB-00581,ADM-00581,Hemoglobin,22.7,g/dL,High
+LAB-00582,ADM-00582,Creatinine,24.4,mg/dL,Low
+LAB-00583,ADM-00583,C-Reactive Protein,26.1,mg/L,Normal
+LAB-00584,ADM-00584,Glucose,27.8,mmol/L,Normal
+LAB-00585,ADM-00585,Hemoglobin,29.5,g/dL,Normal
+LAB-00586,ADM-00586,Creatinine,31.2,mg/dL,Normal
+LAB-00587,ADM-00587,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00588,ADM-00588,Glucose,34.6,mmol/L,High
+LAB-00589,ADM-00589,Hemoglobin,4.0,g/dL,Low
+LAB-00590,ADM-00590,Creatinine,5.7,mg/dL,Normal
+LAB-00591,ADM-00591,C-Reactive Protein,7.4,mg/L,Normal
+LAB-00592,ADM-00592,Glucose,9.1,mmol/L,Normal
+LAB-00593,ADM-00593,Hemoglobin,10.8,g/dL,Normal
+LAB-00594,ADM-00594,Creatinine,12.5,mg/dL,Normal
+LAB-00595,ADM-00595,C-Reactive Protein,14.2,mg/L,High
+LAB-00596,ADM-00596,Glucose,15.9,mmol/L,Low
+LAB-00597,ADM-00597,Hemoglobin,17.6,g/dL,Normal
+LAB-00598,ADM-00598,Creatinine,19.3,mg/dL,Normal
+LAB-00599,ADM-00599,C-Reactive Protein,21.0,mg/L,Normal
+LAB-00600,ADM-00600,Glucose,22.7,mmol/L,Normal
+LAB-00601,ADM-00601,Hemoglobin,24.4,g/dL,Normal
+LAB-00602,ADM-00602,Creatinine,26.1,mg/dL,High
+LAB-00603,ADM-00603,C-Reactive Protein,27.8,mg/L,Low
+LAB-00604,ADM-00604,Glucose,29.5,mmol/L,Normal
+LAB-00605,ADM-00605,Hemoglobin,31.2,g/dL,Normal
+LAB-00606,ADM-00606,Creatinine,32.9,mg/dL,Normal
+LAB-00607,ADM-00607,C-Reactive Protein,34.6,mg/L,Normal
+LAB-00608,ADM-00608,Glucose,4.0,mmol/L,Normal
+LAB-00609,ADM-00609,Hemoglobin,5.7,g/dL,High
+LAB-00610,ADM-00610,Creatinine,7.4,mg/dL,Low
+LAB-00611,ADM-00611,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00612,ADM-00612,Glucose,10.8,mmol/L,Normal
+LAB-00613,ADM-00613,Hemoglobin,12.5,g/dL,Normal
+LAB-00614,ADM-00614,Creatinine,14.2,mg/dL,Normal
+LAB-00615,ADM-00615,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00616,ADM-00616,Glucose,17.6,mmol/L,High
+LAB-00617,ADM-00617,Hemoglobin,19.3,g/dL,Low
+LAB-00618,ADM-00618,Creatinine,21.0,mg/dL,Normal
+LAB-00619,ADM-00619,C-Reactive Protein,22.7,mg/L,Normal
+LAB-00620,ADM-00620,Glucose,24.4,mmol/L,Normal
+LAB-00621,ADM-00621,Hemoglobin,26.1,g/dL,Normal
+LAB-00622,ADM-00622,Creatinine,27.8,mg/dL,Normal
+LAB-00623,ADM-00623,C-Reactive Protein,29.5,mg/L,High
+LAB-00624,ADM-00624,Glucose,31.2,mmol/L,Low
+LAB-00625,ADM-00625,Hemoglobin,32.9,g/dL,Normal
+LAB-00626,ADM-00626,Creatinine,34.6,mg/dL,Normal
+LAB-00627,ADM-00627,C-Reactive Protein,4.0,mg/L,Normal
+LAB-00628,ADM-00628,Glucose,5.7,mmol/L,Normal
+LAB-00629,ADM-00629,Hemoglobin,7.4,g/dL,Normal
+LAB-00630,ADM-00630,Creatinine,9.1,mg/dL,High
+LAB-00631,ADM-00631,C-Reactive Protein,10.8,mg/L,Low
+LAB-00632,ADM-00632,Glucose,12.5,mmol/L,Normal
+LAB-00633,ADM-00633,Hemoglobin,14.2,g/dL,Normal
+LAB-00634,ADM-00634,Creatinine,15.9,mg/dL,Normal
+LAB-00635,ADM-00635,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00636,ADM-00636,Glucose,19.3,mmol/L,Normal
+LAB-00637,ADM-00637,Hemoglobin,21.0,g/dL,High
+LAB-00638,ADM-00638,Creatinine,22.7,mg/dL,Low
+LAB-00639,ADM-00639,C-Reactive Protein,24.4,mg/L,Normal
+LAB-00640,ADM-00640,Glucose,26.1,mmol/L,Normal
+LAB-00641,ADM-00641,Hemoglobin,27.8,g/dL,Normal
+LAB-00642,ADM-00642,Creatinine,29.5,mg/dL,Normal
+LAB-00643,ADM-00643,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00644,ADM-00644,Glucose,32.9,mmol/L,High
+LAB-00645,ADM-00645,Hemoglobin,34.6,g/dL,Low
+LAB-00646,ADM-00646,Creatinine,4.0,mg/dL,Normal
+LAB-00647,ADM-00647,C-Reactive Protein,5.7,mg/L,Normal
+LAB-00648,ADM-00648,Glucose,7.4,mmol/L,Normal
+LAB-00649,ADM-00649,Hemoglobin,9.1,g/dL,Normal
+LAB-00650,ADM-00650,Creatinine,10.8,mg/dL,Normal
+LAB-00651,ADM-00651,C-Reactive Protein,12.5,mg/L,High
+LAB-00652,ADM-00652,Glucose,14.2,mmol/L,Low
+LAB-00653,ADM-00653,Hemoglobin,15.9,g/dL,Normal
+LAB-00654,ADM-00654,Creatinine,17.6,mg/dL,Normal
+LAB-00655,ADM-00655,C-Reactive Protein,19.3,mg/L,Normal
+LAB-00656,ADM-00656,Glucose,21.0,mmol/L,Normal
+LAB-00657,ADM-00657,Hemoglobin,22.7,g/dL,Normal
+LAB-00658,ADM-00658,Creatinine,24.4,mg/dL,High
+LAB-00659,ADM-00659,C-Reactive Protein,26.1,mg/L,Low
+LAB-00660,ADM-00660,Glucose,27.8,mmol/L,Normal
+LAB-00661,ADM-00661,Hemoglobin,29.5,g/dL,Normal
+LAB-00662,ADM-00662,Creatinine,31.2,mg/dL,Normal
+LAB-00663,ADM-00663,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00664,ADM-00664,Glucose,34.6,mmol/L,Normal
+LAB-00665,ADM-00665,Hemoglobin,4.0,g/dL,High
+LAB-00666,ADM-00666,Creatinine,5.7,mg/dL,Low
+LAB-00667,ADM-00667,C-Reactive Protein,7.4,mg/L,Normal
+LAB-00668,ADM-00668,Glucose,9.1,mmol/L,Normal
+LAB-00669,ADM-00669,Hemoglobin,10.8,g/dL,Normal
+LAB-00670,ADM-00670,Creatinine,12.5,mg/dL,Normal
+LAB-00671,ADM-00671,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00672,ADM-00672,Glucose,15.9,mmol/L,High
+LAB-00673,ADM-00673,Hemoglobin,17.6,g/dL,Low
+LAB-00674,ADM-00674,Creatinine,19.3,mg/dL,Normal
+LAB-00675,ADM-00675,C-Reactive Protein,21.0,mg/L,Normal
+LAB-00676,ADM-00676,Glucose,22.7,mmol/L,Normal
+LAB-00677,ADM-00677,Hemoglobin,24.4,g/dL,Normal
+LAB-00678,ADM-00678,Creatinine,26.1,mg/dL,Normal
+LAB-00679,ADM-00679,C-Reactive Protein,27.8,mg/L,High
+LAB-00680,ADM-00680,Glucose,29.5,mmol/L,Low
+LAB-00681,ADM-00681,Hemoglobin,31.2,g/dL,Normal
+LAB-00682,ADM-00682,Creatinine,32.9,mg/dL,Normal
+LAB-00683,ADM-00683,C-Reactive Protein,34.6,mg/L,Normal
+LAB-00684,ADM-00684,Glucose,4.0,mmol/L,Normal
+LAB-00685,ADM-00685,Hemoglobin,5.7,g/dL,Normal
+LAB-00686,ADM-00686,Creatinine,7.4,mg/dL,High
+LAB-00687,ADM-00687,C-Reactive Protein,9.1,mg/L,Low
+LAB-00688,ADM-00688,Glucose,10.8,mmol/L,Normal
+LAB-00689,ADM-00689,Hemoglobin,12.5,g/dL,Normal
+LAB-00690,ADM-00690,Creatinine,14.2,mg/dL,Normal
+LAB-00691,ADM-00691,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00692,ADM-00692,Glucose,17.6,mmol/L,Normal
+LAB-00693,ADM-00693,Hemoglobin,19.3,g/dL,High
+LAB-00694,ADM-00694,Creatinine,21.0,mg/dL,Low
+LAB-00695,ADM-00695,C-Reactive Protein,22.7,mg/L,Normal
+LAB-00696,ADM-00696,Glucose,24.4,mmol/L,Normal
+LAB-00697,ADM-00697,Hemoglobin,26.1,g/dL,Normal
+LAB-00698,ADM-00698,Creatinine,27.8,mg/dL,Normal
+LAB-00699,ADM-00699,C-Reactive Protein,29.5,mg/L,Normal
+LAB-00700,ADM-00700,Glucose,31.2,mmol/L,High
+LAB-00701,ADM-00701,Hemoglobin,32.9,g/dL,Low
+LAB-00702,ADM-00702,Creatinine,34.6,mg/dL,Normal
+LAB-00703,ADM-00703,C-Reactive Protein,4.0,mg/L,Normal
+LAB-00704,ADM-00704,Glucose,5.7,mmol/L,Normal
+LAB-00705,ADM-00705,Hemoglobin,7.4,g/dL,Normal
+LAB-00706,ADM-00706,Creatinine,9.1,mg/dL,Normal
+LAB-00707,ADM-00707,C-Reactive Protein,10.8,mg/L,High
+LAB-00708,ADM-00708,Glucose,12.5,mmol/L,Low
+LAB-00709,ADM-00709,Hemoglobin,14.2,g/dL,Normal
+LAB-00710,ADM-00710,Creatinine,15.9,mg/dL,Normal
+LAB-00711,ADM-00711,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00712,ADM-00712,Glucose,19.3,mmol/L,Normal
+LAB-00713,ADM-00713,Hemoglobin,21.0,g/dL,Normal
+LAB-00714,ADM-00714,Creatinine,22.7,mg/dL,High
+LAB-00715,ADM-00715,C-Reactive Protein,24.4,mg/L,Low
+LAB-00716,ADM-00716,Glucose,26.1,mmol/L,Normal
+LAB-00717,ADM-00717,Hemoglobin,27.8,g/dL,Normal
+LAB-00718,ADM-00718,Creatinine,29.5,mg/dL,Normal
+LAB-00719,ADM-00719,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00720,ADM-00720,Glucose,32.9,mmol/L,Normal
+LAB-00721,ADM-00721,Hemoglobin,34.6,g/dL,High
+LAB-00722,ADM-00722,Creatinine,4.0,mg/dL,Low
+LAB-00723,ADM-00723,C-Reactive Protein,5.7,mg/L,Normal
+LAB-00724,ADM-00724,Glucose,7.4,mmol/L,Normal
+LAB-00725,ADM-00725,Hemoglobin,9.1,g/dL,Normal
+LAB-00726,ADM-00726,Creatinine,10.8,mg/dL,Normal
+LAB-00727,ADM-00727,C-Reactive Protein,12.5,mg/L,Normal
+LAB-00728,ADM-00728,Glucose,14.2,mmol/L,High
+LAB-00729,ADM-00729,Hemoglobin,15.9,g/dL,Low
+LAB-00730,ADM-00730,Creatinine,17.6,mg/dL,Normal
+LAB-00731,ADM-00731,C-Reactive Protein,19.3,mg/L,Normal
+LAB-00732,ADM-00732,Glucose,21.0,mmol/L,Normal
+LAB-00733,ADM-00733,Hemoglobin,22.7,g/dL,Normal
+LAB-00734,ADM-00734,Creatinine,24.4,mg/dL,Normal
+LAB-00735,ADM-00735,C-Reactive Protein,26.1,mg/L,High
+LAB-00736,ADM-00736,Glucose,27.8,mmol/L,Low
+LAB-00737,ADM-00737,Hemoglobin,29.5,g/dL,Normal
+LAB-00738,ADM-00738,Creatinine,31.2,mg/dL,Normal
+LAB-00739,ADM-00739,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00740,ADM-00740,Glucose,34.6,mmol/L,Normal
+LAB-00741,ADM-00741,Hemoglobin,4.0,g/dL,Normal
+LAB-00742,ADM-00742,Creatinine,5.7,mg/dL,High
+LAB-00743,ADM-00743,C-Reactive Protein,7.4,mg/L,Low
+LAB-00744,ADM-00744,Glucose,9.1,mmol/L,Normal
+LAB-00745,ADM-00745,Hemoglobin,10.8,g/dL,Normal
+LAB-00746,ADM-00746,Creatinine,12.5,mg/dL,Normal
+LAB-00747,ADM-00747,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00748,ADM-00748,Glucose,15.9,mmol/L,Normal
+LAB-00749,ADM-00749,Hemoglobin,17.6,g/dL,High
+LAB-00750,ADM-00750,Creatinine,19.3,mg/dL,Low
+LAB-00751,ADM-00751,C-Reactive Protein,21.0,mg/L,Normal
+LAB-00752,ADM-00752,Glucose,22.7,mmol/L,Normal
+LAB-00753,ADM-00753,Hemoglobin,24.4,g/dL,Normal
+LAB-00754,ADM-00754,Creatinine,26.1,mg/dL,Normal
+LAB-00755,ADM-00755,C-Reactive Protein,27.8,mg/L,Normal
+LAB-00756,ADM-00756,Glucose,29.5,mmol/L,High
+LAB-00757,ADM-00757,Hemoglobin,31.2,g/dL,Low
+LAB-00758,ADM-00758,Creatinine,32.9,mg/dL,Normal
+LAB-00759,ADM-00759,C-Reactive Protein,34.6,mg/L,Normal
+LAB-00760,ADM-00760,Glucose,4.0,mmol/L,Normal
+LAB-00761,ADM-00761,Hemoglobin,5.7,g/dL,Normal
+LAB-00762,ADM-00762,Creatinine,7.4,mg/dL,Normal
+LAB-00763,ADM-00763,C-Reactive Protein,9.1,mg/L,High
+LAB-00764,ADM-00764,Glucose,10.8,mmol/L,Low
+LAB-00765,ADM-00765,Hemoglobin,12.5,g/dL,Normal
+LAB-00766,ADM-00766,Creatinine,14.2,mg/dL,Normal
+LAB-00767,ADM-00767,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00768,ADM-00768,Glucose,17.6,mmol/L,Normal
+LAB-00769,ADM-00769,Hemoglobin,19.3,g/dL,Normal
+LAB-00770,ADM-00770,Creatinine,21.0,mg/dL,High
+LAB-00771,ADM-00771,C-Reactive Protein,22.7,mg/L,Low
+LAB-00772,ADM-00772,Glucose,24.4,mmol/L,Normal
+LAB-00773,ADM-00773,Hemoglobin,26.1,g/dL,Normal
+LAB-00774,ADM-00774,Creatinine,27.8,mg/dL,Normal
+LAB-00775,ADM-00775,C-Reactive Protein,29.5,mg/L,Normal
+LAB-00776,ADM-00776,Glucose,31.2,mmol/L,Normal
+LAB-00777,ADM-00777,Hemoglobin,32.9,g/dL,High
+LAB-00778,ADM-00778,Creatinine,34.6,mg/dL,Low
+LAB-00779,ADM-00779,C-Reactive Protein,4.0,mg/L,Normal
+LAB-00780,ADM-00780,Glucose,5.7,mmol/L,Normal
+LAB-00781,ADM-00781,Hemoglobin,7.4,g/dL,Normal
+LAB-00782,ADM-00782,Creatinine,9.1,mg/dL,Normal
+LAB-00783,ADM-00783,C-Reactive Protein,10.8,mg/L,Normal
+LAB-00784,ADM-00784,Glucose,12.5,mmol/L,High
+LAB-00785,ADM-00785,Hemoglobin,14.2,g/dL,Low
+LAB-00786,ADM-00786,Creatinine,15.9,mg/dL,Normal
+LAB-00787,ADM-00787,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00788,ADM-00788,Glucose,19.3,mmol/L,Normal
+LAB-00789,ADM-00789,Hemoglobin,21.0,g/dL,Normal
+LAB-00790,ADM-00790,Creatinine,22.7,mg/dL,Normal
+LAB-00791,ADM-00791,C-Reactive Protein,24.4,mg/L,High
+LAB-00792,ADM-00792,Glucose,26.1,mmol/L,Low
+LAB-00793,ADM-00793,Hemoglobin,27.8,g/dL,Normal
+LAB-00794,ADM-00794,Creatinine,29.5,mg/dL,Normal
+LAB-00795,ADM-00795,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00796,ADM-00796,Glucose,32.9,mmol/L,Normal
+LAB-00797,ADM-00797,Hemoglobin,34.6,g/dL,Normal
+LAB-00798,ADM-00798,Creatinine,4.0,mg/dL,High
+LAB-00799,ADM-00799,C-Reactive Protein,5.7,mg/L,Low
+LAB-00800,ADM-00800,Glucose,7.4,mmol/L,Normal
+LAB-00801,ADM-00801,Hemoglobin,9.1,g/dL,Normal
+LAB-00802,ADM-00802,Creatinine,10.8,mg/dL,Normal
+LAB-00803,ADM-00803,C-Reactive Protein,12.5,mg/L,Normal
+LAB-00804,ADM-00804,Glucose,14.2,mmol/L,Normal
+LAB-00805,ADM-00805,Hemoglobin,15.9,g/dL,High
+LAB-00806,ADM-00806,Creatinine,17.6,mg/dL,Low
+LAB-00807,ADM-00807,C-Reactive Protein,19.3,mg/L,Normal
+LAB-00808,ADM-00808,Glucose,21.0,mmol/L,Normal
+LAB-00809,ADM-00809,Hemoglobin,22.7,g/dL,Normal
+LAB-00810,ADM-00810,Creatinine,24.4,mg/dL,Normal
+LAB-00811,ADM-00811,C-Reactive Protein,26.1,mg/L,Normal
+LAB-00812,ADM-00812,Glucose,27.8,mmol/L,High
+LAB-00813,ADM-00813,Hemoglobin,29.5,g/dL,Low
+LAB-00814,ADM-00814,Creatinine,31.2,mg/dL,Normal
+LAB-00815,ADM-00815,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00816,ADM-00816,Glucose,34.6,mmol/L,Normal
+LAB-00817,ADM-00817,Hemoglobin,4.0,g/dL,Normal
+LAB-00818,ADM-00818,Creatinine,5.7,mg/dL,Normal
+LAB-00819,ADM-00819,C-Reactive Protein,7.4,mg/L,High
+LAB-00820,ADM-00820,Glucose,9.1,mmol/L,Low
+LAB-00821,ADM-00821,Hemoglobin,10.8,g/dL,Normal
+LAB-00822,ADM-00822,Creatinine,12.5,mg/dL,Normal
+LAB-00823,ADM-00823,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00824,ADM-00824,Glucose,15.9,mmol/L,Normal
+LAB-00825,ADM-00825,Hemoglobin,17.6,g/dL,Normal
+LAB-00826,ADM-00826,Creatinine,19.3,mg/dL,High
+LAB-00827,ADM-00827,C-Reactive Protein,21.0,mg/L,Low
+LAB-00828,ADM-00828,Glucose,22.7,mmol/L,Normal
+LAB-00829,ADM-00829,Hemoglobin,24.4,g/dL,Normal
+LAB-00830,ADM-00830,Creatinine,26.1,mg/dL,Normal
+LAB-00831,ADM-00831,C-Reactive Protein,27.8,mg/L,Normal
+LAB-00832,ADM-00832,Glucose,29.5,mmol/L,Normal
+LAB-00833,ADM-00833,Hemoglobin,31.2,g/dL,High
+LAB-00834,ADM-00834,Creatinine,32.9,mg/dL,Low
+LAB-00835,ADM-00835,C-Reactive Protein,34.6,mg/L,Normal
+LAB-00836,ADM-00836,Glucose,4.0,mmol/L,Normal
+LAB-00837,ADM-00837,Hemoglobin,5.7,g/dL,Normal
+LAB-00838,ADM-00838,Creatinine,7.4,mg/dL,Normal
+LAB-00839,ADM-00839,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00840,ADM-00840,Glucose,10.8,mmol/L,High
+LAB-00841,ADM-00841,Hemoglobin,12.5,g/dL,Low
+LAB-00842,ADM-00842,Creatinine,14.2,mg/dL,Normal
+LAB-00843,ADM-00843,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00844,ADM-00844,Glucose,17.6,mmol/L,Normal
+LAB-00845,ADM-00845,Hemoglobin,19.3,g/dL,Normal
+LAB-00846,ADM-00846,Creatinine,21.0,mg/dL,Normal
+LAB-00847,ADM-00847,C-Reactive Protein,22.7,mg/L,High
+LAB-00848,ADM-00848,Glucose,24.4,mmol/L,Low
+LAB-00849,ADM-00849,Hemoglobin,26.1,g/dL,Normal
+LAB-00850,ADM-00850,Creatinine,27.8,mg/dL,Normal
+LAB-00851,ADM-00851,C-Reactive Protein,29.5,mg/L,Normal
+LAB-00852,ADM-00852,Glucose,31.2,mmol/L,Normal
+LAB-00853,ADM-00853,Hemoglobin,32.9,g/dL,Normal
+LAB-00854,ADM-00854,Creatinine,34.6,mg/dL,High
+LAB-00855,ADM-00855,C-Reactive Protein,4.0,mg/L,Low
+LAB-00856,ADM-00856,Glucose,5.7,mmol/L,Normal
+LAB-00857,ADM-00857,Hemoglobin,7.4,g/dL,Normal
+LAB-00858,ADM-00858,Creatinine,9.1,mg/dL,Normal
+LAB-00859,ADM-00859,C-Reactive Protein,10.8,mg/L,Normal
+LAB-00860,ADM-00860,Glucose,12.5,mmol/L,Normal
+LAB-00861,ADM-00861,Hemoglobin,14.2,g/dL,High
+LAB-00862,ADM-00862,Creatinine,15.9,mg/dL,Low
+LAB-00863,ADM-00863,C-Reactive Protein,17.6,mg/L,Normal
+LAB-00864,ADM-00864,Glucose,19.3,mmol/L,Normal
+LAB-00865,ADM-00865,Hemoglobin,21.0,g/dL,Normal
+LAB-00866,ADM-00866,Creatinine,22.7,mg/dL,Normal
+LAB-00867,ADM-00867,C-Reactive Protein,24.4,mg/L,Normal
+LAB-00868,ADM-00868,Glucose,26.1,mmol/L,High
+LAB-00869,ADM-00869,Hemoglobin,27.8,g/dL,Low
+LAB-00870,ADM-00870,Creatinine,29.5,mg/dL,Normal
+LAB-00871,ADM-00871,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00872,ADM-00872,Glucose,32.9,mmol/L,Normal
+LAB-00873,ADM-00873,Hemoglobin,34.6,g/dL,Normal
+LAB-00874,ADM-00874,Creatinine,4.0,mg/dL,Normal
+LAB-00875,ADM-00875,C-Reactive Protein,5.7,mg/L,High
+LAB-00876,ADM-00876,Glucose,7.4,mmol/L,Low
+LAB-00877,ADM-00877,Hemoglobin,9.1,g/dL,Normal
+LAB-00878,ADM-00878,Creatinine,10.8,mg/dL,Normal
+LAB-00879,ADM-00879,C-Reactive Protein,12.5,mg/L,Normal
+LAB-00880,ADM-00880,Glucose,14.2,mmol/L,Normal
+LAB-00881,ADM-00881,Hemoglobin,15.9,g/dL,Normal
+LAB-00882,ADM-00882,Creatinine,17.6,mg/dL,High
+LAB-00883,ADM-00883,C-Reactive Protein,19.3,mg/L,Low
+LAB-00884,ADM-00884,Glucose,21.0,mmol/L,Normal
+LAB-00885,ADM-00885,Hemoglobin,22.7,g/dL,Normal
+LAB-00886,ADM-00886,Creatinine,24.4,mg/dL,Normal
+LAB-00887,ADM-00887,C-Reactive Protein,26.1,mg/L,Normal
+LAB-00888,ADM-00888,Glucose,27.8,mmol/L,Normal
+LAB-00889,ADM-00889,Hemoglobin,29.5,g/dL,High
+LAB-00890,ADM-00890,Creatinine,31.2,mg/dL,Low
+LAB-00891,ADM-00891,C-Reactive Protein,32.9,mg/L,Normal
+LAB-00892,ADM-00892,Glucose,34.6,mmol/L,Normal
+LAB-00893,ADM-00893,Hemoglobin,4.0,g/dL,Normal
+LAB-00894,ADM-00894,Creatinine,5.7,mg/dL,Normal
+LAB-00895,ADM-00895,C-Reactive Protein,7.4,mg/L,Normal
+LAB-00896,ADM-00896,Glucose,9.1,mmol/L,High
+LAB-00897,ADM-00897,Hemoglobin,10.8,g/dL,Low
+LAB-00898,ADM-00898,Creatinine,12.5,mg/dL,Normal
+LAB-00899,ADM-00899,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00900,ADM-00900,Glucose,15.9,mmol/L,Normal
+LAB-00901,ADM-00901,Hemoglobin,17.6,g/dL,Normal
+LAB-00902,ADM-00902,Creatinine,19.3,mg/dL,Normal
+LAB-00903,ADM-00903,C-Reactive Protein,21.0,mg/L,High
+LAB-00904,ADM-00904,Glucose,22.7,mmol/L,Low
+LAB-00905,ADM-00905,Hemoglobin,24.4,g/dL,Normal
+LAB-00906,ADM-00906,Creatinine,26.1,mg/dL,Normal
+LAB-00907,ADM-00907,C-Reactive Protein,27.8,mg/L,Normal
+LAB-00908,ADM-00908,Glucose,29.5,mmol/L,Normal
+LAB-00909,ADM-00909,Hemoglobin,31.2,g/dL,Normal
+LAB-00910,ADM-00910,Creatinine,32.9,mg/dL,High
+LAB-00911,ADM-00911,C-Reactive Protein,34.6,mg/L,Low
+LAB-00912,ADM-00912,Glucose,4.0,mmol/L,Normal
+LAB-00913,ADM-00913,Hemoglobin,5.7,g/dL,Normal
+LAB-00914,ADM-00914,Creatinine,7.4,mg/dL,Normal
+LAB-00915,ADM-00915,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00916,ADM-00916,Glucose,10.8,mmol/L,Normal
+LAB-00917,ADM-00917,Hemoglobin,12.5,g/dL,High
+LAB-00918,ADM-00918,Creatinine,14.2,mg/dL,Low
+LAB-00919,ADM-00919,C-Reactive Protein,15.9,mg/L,Normal
+LAB-00920,ADM-00920,Glucose,17.6,mmol/L,Normal
+LAB-00921,ADM-00921,Hemoglobin,19.3,g/dL,Normal
+LAB-00922,ADM-00922,Creatinine,21.0,mg/dL,Normal
+LAB-00923,ADM-00923,C-Reactive Protein,22.7,mg/L,Normal
+LAB-00924,ADM-00924,Glucose,24.4,mmol/L,High
+LAB-00925,ADM-00925,Hemoglobin,26.1,g/dL,Low
+LAB-00926,ADM-00926,Creatinine,27.8,mg/dL,Normal
+LAB-00927,ADM-00927,C-Reactive Protein,29.5,mg/L,Normal
+LAB-00928,ADM-00928,Glucose,31.2,mmol/L,Normal
+LAB-00929,ADM-00929,Hemoglobin,32.9,g/dL,Normal
+LAB-00930,ADM-00930,Creatinine,34.6,mg/dL,Normal
+LAB-00931,ADM-00931,C-Reactive Protein,4.0,mg/L,High
+LAB-00932,ADM-00932,Glucose,5.7,mmol/L,Low
+LAB-00933,ADM-00933,Hemoglobin,7.4,g/dL,Normal
+LAB-00934,ADM-00934,Creatinine,9.1,mg/dL,Normal
+LAB-00935,ADM-00935,C-Reactive Protein,10.8,mg/L,Normal
+LAB-00936,ADM-00936,Glucose,12.5,mmol/L,Normal
+LAB-00937,ADM-00937,Hemoglobin,14.2,g/dL,Normal
+LAB-00938,ADM-00938,Creatinine,15.9,mg/dL,High
+LAB-00939,ADM-00939,C-Reactive Protein,17.6,mg/L,Low
+LAB-00940,ADM-00940,Glucose,19.3,mmol/L,Normal
+LAB-00941,ADM-00941,Hemoglobin,21.0,g/dL,Normal
+LAB-00942,ADM-00942,Creatinine,22.7,mg/dL,Normal
+LAB-00943,ADM-00943,C-Reactive Protein,24.4,mg/L,Normal
+LAB-00944,ADM-00944,Glucose,26.1,mmol/L,Normal
+LAB-00945,ADM-00945,Hemoglobin,27.8,g/dL,High
+LAB-00946,ADM-00946,Creatinine,29.5,mg/dL,Low
+LAB-00947,ADM-00947,C-Reactive Protein,31.2,mg/L,Normal
+LAB-00948,ADM-00948,Glucose,32.9,mmol/L,Normal
+LAB-00949,ADM-00949,Hemoglobin,34.6,g/dL,Normal
+LAB-00950,ADM-00950,Creatinine,4.0,mg/dL,Normal
+LAB-00951,ADM-00951,C-Reactive Protein,5.7,mg/L,Normal
+LAB-00952,ADM-00952,Glucose,7.4,mmol/L,High
+LAB-00953,ADM-00953,Hemoglobin,9.1,g/dL,Low
+LAB-00954,ADM-00954,Creatinine,10.8,mg/dL,Normal
+LAB-00955,ADM-00955,C-Reactive Protein,12.5,mg/L,Normal
+LAB-00956,ADM-00956,Glucose,14.2,mmol/L,Normal
+LAB-00957,ADM-00957,Hemoglobin,15.9,g/dL,Normal
+LAB-00958,ADM-00958,Creatinine,17.6,mg/dL,Normal
+LAB-00959,ADM-00959,C-Reactive Protein,19.3,mg/L,High
+LAB-00960,ADM-00960,Glucose,21.0,mmol/L,Low
+LAB-00961,ADM-00961,Hemoglobin,22.7,g/dL,Normal
+LAB-00962,ADM-00962,Creatinine,24.4,mg/dL,Normal
+LAB-00963,ADM-00963,C-Reactive Protein,26.1,mg/L,Normal
+LAB-00964,ADM-00964,Glucose,27.8,mmol/L,Normal
+LAB-00965,ADM-00965,Hemoglobin,29.5,g/dL,Normal
+LAB-00966,ADM-00966,Creatinine,31.2,mg/dL,High
+LAB-00967,ADM-00967,C-Reactive Protein,32.9,mg/L,Low
+LAB-00968,ADM-00968,Glucose,34.6,mmol/L,Normal
+LAB-00969,ADM-00969,Hemoglobin,4.0,g/dL,Normal
+LAB-00970,ADM-00970,Creatinine,5.7,mg/dL,Normal
+LAB-00971,ADM-00971,C-Reactive Protein,7.4,mg/L,Normal
+LAB-00972,ADM-00972,Glucose,9.1,mmol/L,Normal
+LAB-00973,ADM-00973,Hemoglobin,10.8,g/dL,High
+LAB-00974,ADM-00974,Creatinine,12.5,mg/dL,Low
+LAB-00975,ADM-00975,C-Reactive Protein,14.2,mg/L,Normal
+LAB-00976,ADM-00976,Glucose,15.9,mmol/L,Normal
+LAB-00977,ADM-00977,Hemoglobin,17.6,g/dL,Normal
+LAB-00978,ADM-00978,Creatinine,19.3,mg/dL,Normal
+LAB-00979,ADM-00979,C-Reactive Protein,21.0,mg/L,Normal
+LAB-00980,ADM-00980,Glucose,22.7,mmol/L,High
+LAB-00981,ADM-00981,Hemoglobin,24.4,g/dL,Low
+LAB-00982,ADM-00982,Creatinine,26.1,mg/dL,Normal
+LAB-00983,ADM-00983,C-Reactive Protein,27.8,mg/L,Normal
+LAB-00984,ADM-00984,Glucose,29.5,mmol/L,Normal
+LAB-00985,ADM-00985,Hemoglobin,31.2,g/dL,Normal
+LAB-00986,ADM-00986,Creatinine,32.9,mg/dL,Normal
+LAB-00987,ADM-00987,C-Reactive Protein,34.6,mg/L,High
+LAB-00988,ADM-00988,Glucose,4.0,mmol/L,Low
+LAB-00989,ADM-00989,Hemoglobin,5.7,g/dL,Normal
+LAB-00990,ADM-00990,Creatinine,7.4,mg/dL,Normal
+LAB-00991,ADM-00991,C-Reactive Protein,9.1,mg/L,Normal
+LAB-00992,ADM-00992,Glucose,10.8,mmol/L,Normal
+LAB-00993,ADM-00993,Hemoglobin,12.5,g/dL,Normal
+LAB-00994,ADM-00994,Creatinine,14.2,mg/dL,High
+LAB-00995,ADM-00995,C-Reactive Protein,15.9,mg/L,Low
+LAB-00996,ADM-00996,Glucose,17.6,mmol/L,Normal
+LAB-00997,ADM-00997,Hemoglobin,19.3,g/dL,Normal
+LAB-00998,ADM-00998,Creatinine,21.0,mg/dL,Normal
+LAB-00999,ADM-00999,C-Reactive Protein,22.7,mg/L,Normal
+LAB-01000,ADM-01000,Glucose,24.4,mmol/L,Normal
+LAB-01001,ADM-01001,Hemoglobin,26.1,g/dL,High
+LAB-01002,ADM-01002,Creatinine,27.8,mg/dL,Low
+LAB-01003,ADM-01003,C-Reactive Protein,29.5,mg/L,Normal
+LAB-01004,ADM-01004,Glucose,31.2,mmol/L,Normal
+LAB-01005,ADM-01005,Hemoglobin,32.9,g/dL,Normal
+LAB-01006,ADM-01006,Creatinine,34.6,mg/dL,Normal
+LAB-01007,ADM-01007,C-Reactive Protein,4.0,mg/L,Normal
+LAB-01008,ADM-01008,Glucose,5.7,mmol/L,High
+LAB-01009,ADM-01009,Hemoglobin,7.4,g/dL,Low
+LAB-01010,ADM-01010,Creatinine,9.1,mg/dL,Normal
+LAB-01011,ADM-01011,C-Reactive Protein,10.8,mg/L,Normal
+LAB-01012,ADM-01012,Glucose,12.5,mmol/L,Normal
+LAB-01013,ADM-01013,Hemoglobin,14.2,g/dL,Normal
+LAB-01014,ADM-01014,Creatinine,15.9,mg/dL,Normal
+LAB-01015,ADM-01015,C-Reactive Protein,17.6,mg/L,High
+LAB-01016,ADM-01016,Glucose,19.3,mmol/L,Low
+LAB-01017,ADM-01017,Hemoglobin,21.0,g/dL,Normal
+LAB-01018,ADM-01018,Creatinine,22.7,mg/dL,Normal
+LAB-01019,ADM-01019,C-Reactive Protein,24.4,mg/L,Normal
+LAB-01020,ADM-01020,Glucose,26.1,mmol/L,Normal
+LAB-01021,ADM-01021,Hemoglobin,27.8,g/dL,Normal
+LAB-01022,ADM-01022,Creatinine,29.5,mg/dL,High
+LAB-01023,ADM-01023,C-Reactive Protein,31.2,mg/L,Low
+LAB-01024,ADM-01024,Glucose,32.9,mmol/L,Normal
+LAB-01025,ADM-01025,Hemoglobin,34.6,g/dL,Normal
+LAB-01026,ADM-01026,Creatinine,4.0,mg/dL,Normal
+LAB-01027,ADM-01027,C-Reactive Protein,5.7,mg/L,Normal
+LAB-01028,ADM-01028,Glucose,7.4,mmol/L,Normal
+LAB-01029,ADM-01029,Hemoglobin,9.1,g/dL,High
+LAB-01030,ADM-01030,Creatinine,10.8,mg/dL,Low
+LAB-01031,ADM-01031,C-Reactive Protein,12.5,mg/L,Normal
+LAB-01032,ADM-01032,Glucose,14.2,mmol/L,Normal
+LAB-01033,ADM-01033,Hemoglobin,15.9,g/dL,Normal
+LAB-01034,ADM-01034,Creatinine,17.6,mg/dL,Normal
+LAB-01035,ADM-01035,C-Reactive Protein,19.3,mg/L,Normal
+LAB-01036,ADM-01036,Glucose,21.0,mmol/L,High
+LAB-01037,ADM-01037,Hemoglobin,22.7,g/dL,Low
+LAB-01038,ADM-01038,Creatinine,24.4,mg/dL,Normal
+LAB-01039,ADM-01039,C-Reactive Protein,26.1,mg/L,Normal
+LAB-01040,ADM-01040,Glucose,27.8,mmol/L,Normal
+LAB-01041,ADM-01041,Hemoglobin,29.5,g/dL,Normal
+LAB-01042,ADM-01042,Creatinine,31.2,mg/dL,Normal
+LAB-01043,ADM-01043,C-Reactive Protein,32.9,mg/L,High
+LAB-01044,ADM-01044,Glucose,34.6,mmol/L,Low
+LAB-01045,ADM-01045,Hemoglobin,4.0,g/dL,Normal
+LAB-01046,ADM-01046,Creatinine,5.7,mg/dL,Normal
+LAB-01047,ADM-01047,C-Reactive Protein,7.4,mg/L,Normal
+LAB-01048,ADM-01048,Glucose,9.1,mmol/L,Normal
+LAB-01049,ADM-01049,Hemoglobin,10.8,g/dL,Normal
+LAB-01050,ADM-01050,Creatinine,12.5,mg/dL,High
+LAB-01051,ADM-01051,C-Reactive Protein,14.2,mg/L,Low
+LAB-01052,ADM-01052,Glucose,15.9,mmol/L,Normal
+LAB-01053,ADM-01053,Hemoglobin,17.6,g/dL,Normal
+LAB-01054,ADM-01054,Creatinine,19.3,mg/dL,Normal
+LAB-01055,ADM-01055,C-Reactive Protein,21.0,mg/L,Normal
+LAB-01056,ADM-01056,Glucose,22.7,mmol/L,Normal
+LAB-01057,ADM-01057,Hemoglobin,24.4,g/dL,High
+LAB-01058,ADM-01058,Creatinine,26.1,mg/dL,Low
+LAB-01059,ADM-01059,C-Reactive Protein,27.8,mg/L,Normal
+LAB-01060,ADM-01060,Glucose,29.5,mmol/L,Normal
+LAB-01061,ADM-01061,Hemoglobin,31.2,g/dL,Normal
+LAB-01062,ADM-01062,Creatinine,32.9,mg/dL,Normal
+LAB-01063,ADM-01063,C-Reactive Protein,34.6,mg/L,Normal
+LAB-01064,ADM-01064,Glucose,4.0,mmol/L,High
+LAB-01065,ADM-01065,Hemoglobin,5.7,g/dL,Low
+LAB-01066,ADM-01066,Creatinine,7.4,mg/dL,Normal
+LAB-01067,ADM-01067,C-Reactive Protein,9.1,mg/L,Normal
+LAB-01068,ADM-01068,Glucose,10.8,mmol/L,Normal
+LAB-01069,ADM-01069,Hemoglobin,12.5,g/dL,Normal
+LAB-01070,ADM-01070,Creatinine,14.2,mg/dL,Normal
+LAB-01071,ADM-01071,C-Reactive Protein,15.9,mg/L,High
+LAB-01072,ADM-01072,Glucose,17.6,mmol/L,Low
+LAB-01073,ADM-01073,Hemoglobin,19.3,g/dL,Normal
+LAB-01074,ADM-01074,Creatinine,21.0,mg/dL,Normal
+LAB-01075,ADM-01075,C-Reactive Protein,22.7,mg/L,Normal
+LAB-01076,ADM-01076,Glucose,24.4,mmol/L,Normal
+LAB-01077,ADM-01077,Hemoglobin,26.1,g/dL,Normal
+LAB-01078,ADM-01078,Creatinine,27.8,mg/dL,High
+LAB-01079,ADM-01079,C-Reactive Protein,29.5,mg/L,Low
+LAB-01080,ADM-01080,Glucose,31.2,mmol/L,Normal
+LAB-01081,ADM-01081,Hemoglobin,32.9,g/dL,Normal
+LAB-01082,ADM-01082,Creatinine,34.6,mg/dL,Normal
+LAB-01083,ADM-01083,C-Reactive Protein,4.0,mg/L,Normal
+LAB-01084,ADM-01084,Glucose,5.7,mmol/L,Normal
+LAB-01085,ADM-01085,Hemoglobin,7.4,g/dL,High
+LAB-01086,ADM-01086,Creatinine,9.1,mg/dL,Low
+LAB-01087,ADM-01087,C-Reactive Protein,10.8,mg/L,Normal
+LAB-01088,ADM-01088,Glucose,12.5,mmol/L,Normal
+LAB-01089,ADM-01089,Hemoglobin,14.2,g/dL,Normal
+LAB-01090,ADM-01090,Creatinine,15.9,mg/dL,Normal
+LAB-01091,ADM-01091,C-Reactive Protein,17.6,mg/L,Normal
+LAB-01092,ADM-01092,Glucose,19.3,mmol/L,High
+LAB-01093,ADM-01093,Hemoglobin,21.0,g/dL,Low
+LAB-01094,ADM-01094,Creatinine,22.7,mg/dL,Normal
+LAB-01095,ADM-01095,C-Reactive Protein,24.4,mg/L,Normal
+LAB-01096,ADM-01096,Glucose,26.1,mmol/L,Normal
+LAB-01097,ADM-01097,Hemoglobin,27.8,g/dL,Normal
+LAB-01098,ADM-01098,Creatinine,29.5,mg/dL,Normal
+LAB-01099,ADM-01099,C-Reactive Protein,31.2,mg/L,High
+LAB-01100,ADM-01100,Glucose,32.9,mmol/L,Low
+LAB-01101,ADM-01101,Hemoglobin,34.6,g/dL,Normal
+LAB-01102,ADM-01102,Creatinine,4.0,mg/dL,Normal
+LAB-01103,ADM-01103,C-Reactive Protein,5.7,mg/L,Normal
+LAB-01104,ADM-01104,Glucose,7.4,mmol/L,Normal
+LAB-01105,ADM-01105,Hemoglobin,9.1,g/dL,Normal
+LAB-01106,ADM-01106,Creatinine,10.8,mg/dL,High
+LAB-01107,ADM-01107,C-Reactive Protein,12.5,mg/L,Low
+LAB-01108,ADM-01108,Glucose,14.2,mmol/L,Normal
+LAB-01109,ADM-01109,Hemoglobin,15.9,g/dL,Normal
+LAB-01110,ADM-01110,Creatinine,17.6,mg/dL,Normal
+LAB-01111,ADM-01111,C-Reactive Protein,19.3,mg/L,Normal
+LAB-01112,ADM-01112,Glucose,21.0,mmol/L,Normal
+LAB-01113,ADM-01113,Hemoglobin,22.7,g/dL,High
+LAB-01114,ADM-01114,Creatinine,24.4,mg/dL,Low
+LAB-01115,ADM-01115,C-Reactive Protein,26.1,mg/L,Normal
+LAB-01116,ADM-01116,Glucose,27.8,mmol/L,Normal
+LAB-01117,ADM-01117,Hemoglobin,29.5,g/dL,Normal
+LAB-01118,ADM-01118,Creatinine,31.2,mg/dL,Normal
+LAB-01119,ADM-01119,C-Reactive Protein,32.9,mg/L,Normal
+LAB-01120,ADM-01120,Glucose,34.6,mmol/L,High
+LAB-01121,ADM-01121,Hemoglobin,4.0,g/dL,Low
+LAB-01122,ADM-01122,Creatinine,5.7,mg/dL,Normal
+LAB-01123,ADM-01123,C-Reactive Protein,7.4,mg/L,Normal
+LAB-01124,ADM-01124,Glucose,9.1,mmol/L,Normal
+LAB-01125,ADM-01125,Hemoglobin,10.8,g/dL,Normal
+LAB-01126,ADM-01126,Creatinine,12.5,mg/dL,Normal
+LAB-01127,ADM-01127,C-Reactive Protein,14.2,mg/L,High
+LAB-01128,ADM-01128,Glucose,15.9,mmol/L,Low
+LAB-01129,ADM-01129,Hemoglobin,17.6,g/dL,Normal
+LAB-01130,ADM-01130,Creatinine,19.3,mg/dL,Normal
+LAB-01131,ADM-01131,C-Reactive Protein,21.0,mg/L,Normal
+LAB-01132,ADM-01132,Glucose,22.7,mmol/L,Normal
+LAB-01133,ADM-01133,Hemoglobin,24.4,g/dL,Normal
+LAB-01134,ADM-01134,Creatinine,26.1,mg/dL,High
+LAB-01135,ADM-01135,C-Reactive Protein,27.8,mg/L,Low
+LAB-01136,ADM-01136,Glucose,29.5,mmol/L,Normal
+LAB-01137,ADM-01137,Hemoglobin,31.2,g/dL,Normal
+LAB-01138,ADM-01138,Creatinine,32.9,mg/dL,Normal
+LAB-01139,ADM-01139,C-Reactive Protein,34.6,mg/L,Normal
+LAB-01140,ADM-01140,Glucose,4.0,mmol/L,Normal
+LAB-01141,ADM-01141,Hemoglobin,5.7,g/dL,High
+LAB-01142,ADM-01142,Creatinine,7.4,mg/dL,Low
+LAB-01143,ADM-01143,C-Reactive Protein,9.1,mg/L,Normal
+LAB-01144,ADM-01144,Glucose,10.8,mmol/L,Normal
+LAB-01145,ADM-01145,Hemoglobin,12.5,g/dL,Normal
+LAB-01146,ADM-01146,Creatinine,14.2,mg/dL,Normal
+LAB-01147,ADM-01147,C-Reactive Protein,15.9,mg/L,Normal
+LAB-01148,ADM-01148,Glucose,17.6,mmol/L,High
+LAB-01149,ADM-01149,Hemoglobin,19.3,g/dL,Low
+LAB-01150,ADM-01150,Creatinine,21.0,mg/dL,Normal
+LAB-01151,ADM-01151,C-Reactive Protein,22.7,mg/L,Normal
+LAB-01152,ADM-01152,Glucose,24.4,mmol/L,Normal
+LAB-01153,ADM-01153,Hemoglobin,26.1,g/dL,Normal
+LAB-01154,ADM-01154,Creatinine,27.8,mg/dL,Normal
+LAB-01155,ADM-01155,C-Reactive Protein,29.5,mg/L,High
+LAB-01156,ADM-01156,Glucose,31.2,mmol/L,Low
+LAB-01157,ADM-01157,Hemoglobin,32.9,g/dL,Normal
+LAB-01158,ADM-01158,Creatinine,34.6,mg/dL,Normal
+LAB-01159,ADM-01159,C-Reactive Protein,4.0,mg/L,Normal
+LAB-01160,ADM-01160,Glucose,5.7,mmol/L,Normal
+LAB-01161,ADM-01161,Hemoglobin,7.4,g/dL,Normal
+LAB-01162,ADM-01162,Creatinine,9.1,mg/dL,High
+LAB-01163,ADM-01163,C-Reactive Protein,10.8,mg/L,Low
+LAB-01164,ADM-01164,Glucose,12.5,mmol/L,Normal
+LAB-01165,ADM-01165,Hemoglobin,14.2,g/dL,Normal
+LAB-01166,ADM-01166,Creatinine,15.9,mg/dL,Normal
+LAB-01167,ADM-01167,C-Reactive Protein,17.6,mg/L,Normal
+LAB-01168,ADM-01168,Glucose,19.3,mmol/L,Normal
+LAB-01169,ADM-01169,Hemoglobin,21.0,g/dL,High
+LAB-01170,ADM-01170,Creatinine,22.7,mg/dL,Low
+LAB-01171,ADM-01171,C-Reactive Protein,24.4,mg/L,Normal
+LAB-01172,ADM-01172,Glucose,26.1,mmol/L,Normal
+LAB-01173,ADM-01173,Hemoglobin,27.8,g/dL,Normal
+LAB-01174,ADM-01174,Creatinine,29.5,mg/dL,Normal
+LAB-01175,ADM-01175,C-Reactive Protein,31.2,mg/L,Normal
+LAB-01176,ADM-01176,Glucose,32.9,mmol/L,High
+LAB-01177,ADM-01177,Hemoglobin,34.6,g/dL,Low
+LAB-01178,ADM-01178,Creatinine,4.0,mg/dL,Normal
+LAB-01179,ADM-01179,C-Reactive Protein,5.7,mg/L,Normal
+LAB-01180,ADM-01180,Glucose,7.4,mmol/L,Normal
+LAB-01181,ADM-01181,Hemoglobin,9.1,g/dL,Normal
+LAB-01182,ADM-01182,Creatinine,10.8,mg/dL,Normal
+LAB-01183,ADM-01183,C-Reactive Protein,12.5,mg/L,High
+LAB-01184,ADM-01184,Glucose,14.2,mmol/L,Low
+LAB-01185,ADM-01185,Hemoglobin,15.9,g/dL,Normal
+LAB-01186,ADM-01186,Creatinine,17.6,mg/dL,Normal
+LAB-01187,ADM-01187,C-Reactive Protein,19.3,mg/L,Normal
+LAB-01188,ADM-01188,Glucose,21.0,mmol/L,Normal
+LAB-01189,ADM-01189,Hemoglobin,22.7,g/dL,Normal
+LAB-01190,ADM-01190,Creatinine,24.4,mg/dL,High
+LAB-01191,ADM-01191,C-Reactive Protein,26.1,mg/L,Low
+LAB-01192,ADM-01192,Glucose,27.8,mmol/L,Normal
+LAB-01193,ADM-01193,Hemoglobin,29.5,g/dL,Normal
+LAB-01194,ADM-01194,Creatinine,31.2,mg/dL,Normal
+LAB-01195,ADM-01195,C-Reactive Protein,32.9,mg/L,Normal
+LAB-01196,ADM-01196,Glucose,34.6,mmol/L,Normal
+LAB-01197,ADM-01197,Hemoglobin,4.0,g/dL,High
+LAB-01198,ADM-01198,Creatinine,5.7,mg/dL,Low
+LAB-01199,ADM-01199,C-Reactive Protein,7.4,mg/L,Normal
+LAB-01200,ADM-01200,Glucose,9.1,mmol/L,Normal
+LAB-01201,ADM-01201,Hemoglobin,10.8,g/dL,Normal
+LAB-01202,ADM-01202,Creatinine,12.5,mg/dL,Normal
+LAB-01203,ADM-01203,C-Reactive Protein,14.2,mg/L,Normal
+LAB-01204,ADM-01204,Glucose,15.9,mmol/L,High
+LAB-01205,ADM-01205,Hemoglobin,17.6,g/dL,Low
+LAB-01206,ADM-01206,Creatinine,19.3,mg/dL,Normal
+LAB-01207,ADM-01207,C-Reactive Protein,21.0,mg/L,Normal
+LAB-01208,ADM-01208,Glucose,22.7,mmol/L,Normal
+LAB-01209,ADM-01209,Hemoglobin,24.4,g/dL,Normal
+LAB-01210,ADM-01210,Creatinine,26.1,mg/dL,Normal
+LAB-01211,ADM-01211,C-Reactive Protein,27.8,mg/L,High
+LAB-01212,ADM-01212,Glucose,29.5,mmol/L,Low
+LAB-01213,ADM-01213,Hemoglobin,31.2,g/dL,Normal
+LAB-01214,ADM-01214,Creatinine,32.9,mg/dL,Normal
+LAB-01215,ADM-01215,C-Reactive Protein,34.6,mg/L,Normal
+LAB-01216,ADM-01216,Glucose,4.0,mmol/L,Normal
+LAB-01217,ADM-01217,Hemoglobin,5.7,g/dL,Normal
+LAB-01218,ADM-01218,Creatinine,7.4,mg/dL,High
+LAB-01219,ADM-01219,C-Reactive Protein,9.1,mg/L,Low
+LAB-01220,ADM-01220,Glucose,10.8,mmol/L,Normal
+LAB-01221,ADM-01221,Hemoglobin,12.5,g/dL,Normal
+LAB-01222,ADM-01222,Creatinine,14.2,mg/dL,Normal
+LAB-01223,ADM-01223,C-Reactive Protein,15.9,mg/L,Normal
+LAB-01224,ADM-01224,Glucose,17.6,mmol/L,Normal
+LAB-01225,ADM-01225,Hemoglobin,19.3,g/dL,High
+LAB-01226,ADM-01226,Creatinine,21.0,mg/dL,Low
+LAB-01227,ADM-01227,C-Reactive Protein,22.7,mg/L,Normal
+LAB-01228,ADM-01228,Glucose,24.4,mmol/L,Normal
+LAB-01229,ADM-01229,Hemoglobin,26.1,g/dL,Normal
+LAB-01230,ADM-01230,Creatinine,27.8,mg/dL,Normal
+LAB-01231,ADM-01231,C-Reactive Protein,29.5,mg/L,Normal
+LAB-01232,ADM-01232,Glucose,31.2,mmol/L,High
+LAB-01233,ADM-01233,Hemoglobin,32.9,g/dL,Low
+LAB-01234,ADM-01234,Creatinine,34.6,mg/dL,Normal
+LAB-01235,ADM-01235,C-Reactive Protein,4.0,mg/L,Normal
+LAB-01236,ADM-01236,Glucose,5.7,mmol/L,Normal
+LAB-01237,ADM-01237,Hemoglobin,7.4,g/dL,Normal
+LAB-01238,ADM-01238,Creatinine,9.1,mg/dL,Normal
+LAB-01239,ADM-01239,C-Reactive Protein,10.8,mg/L,High
+LAB-01240,ADM-01240,Glucose,12.5,mmol/L,Low
+LAB-01241,ADM-01241,Hemoglobin,14.2,g/dL,Normal
+LAB-01242,ADM-01242,Creatinine,15.9,mg/dL,Normal
+LAB-01243,ADM-01243,C-Reactive Protein,17.6,mg/L,Normal
+LAB-01244,ADM-01244,Glucose,19.3,mmol/L,Normal
+LAB-01245,ADM-01245,Hemoglobin,21.0,g/dL,Normal
+LAB-01246,ADM-01246,Creatinine,22.7,mg/dL,High
+LAB-01247,ADM-01247,C-Reactive Protein,24.4,mg/L,Low
+LAB-01248,ADM-01248,Glucose,26.1,mmol/L,Normal
+LAB-01249,ADM-01249,Hemoglobin,27.8,g/dL,Normal
+LAB-01250,ADM-01250,Creatinine,29.5,mg/dL,Normal
+LAB-01251,ADM-01251,C-Reactive Protein,31.2,mg/L,Normal
+LAB-01252,ADM-01252,Glucose,32.9,mmol/L,Normal
+LAB-01253,ADM-01253,Hemoglobin,34.6,g/dL,High
+LAB-01254,ADM-01254,Creatinine,4.0,mg/dL,Low
+LAB-01255,ADM-01255,C-Reactive Protein,5.7,mg/L,Normal
+LAB-01256,ADM-01256,Glucose,7.4,mmol/L,Normal
+LAB-01257,ADM-01257,Hemoglobin,9.1,g/dL,Normal
+LAB-01258,ADM-01258,Creatinine,10.8,mg/dL,Normal
+LAB-01259,ADM-01259,C-Reactive Protein,12.5,mg/L,Normal
+LAB-01260,ADM-01260,Glucose,14.2,mmol/L,High
+LAB-01261,ADM-01261,Hemoglobin,15.9,g/dL,Low
+LAB-01262,ADM-01262,Creatinine,17.6,mg/dL,Normal
+LAB-01263,ADM-01263,C-Reactive Protein,19.3,mg/L,Normal
+LAB-01264,ADM-01264,Glucose,21.0,mmol/L,Normal
+LAB-01265,ADM-01265,Hemoglobin,22.7,g/dL,Normal
+LAB-01266,ADM-01266,Creatinine,24.4,mg/dL,Normal
+LAB-01267,ADM-01267,C-Reactive Protein,26.1,mg/L,High
+LAB-01268,ADM-01268,Glucose,27.8,mmol/L,Low
+LAB-01269,ADM-01269,Hemoglobin,29.5,g/dL,Normal
+LAB-01270,ADM-01270,Creatinine,31.2,mg/dL,Normal
+LAB-01271,ADM-01271,C-Reactive Protein,32.9,mg/L,Normal
+LAB-01272,ADM-01272,Glucose,34.6,mmol/L,Normal
+LAB-01273,ADM-01273,Hemoglobin,4.0,g/dL,Normal
+LAB-01274,ADM-01274,Creatinine,5.7,mg/dL,High
+LAB-01275,ADM-01275,C-Reactive Protein,7.4,mg/L,Low
+LAB-01276,ADM-01276,Glucose,9.1,mmol/L,Normal
+LAB-01277,ADM-01277,Hemoglobin,10.8,g/dL,Normal
+LAB-01278,ADM-01278,Creatinine,12.5,mg/dL,Normal
+LAB-01279,ADM-01279,C-Reactive Protein,14.2,mg/L,Normal
+LAB-01280,ADM-01280,Glucose,15.9,mmol/L,Normal
+LAB-01281,ADM-01281,Hemoglobin,17.6,g/dL,High
+LAB-01282,ADM-01282,Creatinine,19.3,mg/dL,Low
+LAB-01283,ADM-01283,C-Reactive Protein,21.0,mg/L,Normal
+LAB-01284,ADM-01284,Glucose,22.7,mmol/L,Normal
+LAB-01285,ADM-01285,Hemoglobin,24.4,g/dL,Normal
+LAB-01286,ADM-01286,Creatinine,26.1,mg/dL,Normal
+LAB-01287,ADM-01287,C-Reactive Protein,27.8,mg/L,Normal
+LAB-01288,ADM-01288,Glucose,29.5,mmol/L,High
+LAB-01289,ADM-01289,Hemoglobin,31.2,g/dL,Low
+LAB-01290,ADM-01290,Creatinine,32.9,mg/dL,Normal
+LAB-01291,ADM-01291,C-Reactive Protein,34.6,mg/L,Normal
+LAB-01292,ADM-01292,Glucose,4.0,mmol/L,Normal
+LAB-01293,ADM-01293,Hemoglobin,5.7,g/dL,Normal
+LAB-01294,ADM-01294,Creatinine,7.4,mg/dL,Normal
+LAB-01295,ADM-01295,C-Reactive Protein,9.1,mg/L,High
+LAB-01296,ADM-01296,Glucose,10.8,mmol/L,Low
+LAB-01297,ADM-01297,Hemoglobin,12.5,g/dL,Normal
+LAB-01298,ADM-01298,Creatinine,14.2,mg/dL,Normal
+LAB-01299,ADM-01299,C-Reactive Protein,15.9,mg/L,Normal
+LAB-01300,ADM-01300,Glucose,17.6,mmol/L,Normal
+LAB-01301,ADM-01301,Hemoglobin,19.3,g/dL,Normal
+LAB-01302,ADM-01302,Creatinine,21.0,mg/dL,High
+LAB-01303,ADM-01303,C-Reactive Protein,22.7,mg/L,Low
+LAB-01304,ADM-01304,Glucose,24.4,mmol/L,Normal
+LAB-01305,ADM-01305,Hemoglobin,26.1,g/dL,Normal
+LAB-01306,ADM-01306,Creatinine,27.8,mg/dL,Normal
+LAB-01307,ADM-01307,C-Reactive Protein,29.5,mg/L,Normal
+LAB-01308,ADM-01308,Glucose,31.2,mmol/L,Normal
+LAB-01309,ADM-01309,Hemoglobin,32.9,g/dL,High
+LAB-01310,ADM-01310,Creatinine,34.6,mg/dL,Low
+LAB-01311,ADM-01311,C-Reactive Protein,4.0,mg/L,Normal
+LAB-01312,ADM-01312,Glucose,5.7,mmol/L,Normal
+LAB-01313,ADM-01313,Hemoglobin,7.4,g/dL,Normal
+LAB-01314,ADM-01314,Creatinine,9.1,mg/dL,Normal
+LAB-01315,ADM-01315,C-Reactive Protein,10.8,mg/L,Normal
+LAB-01316,ADM-01316,Glucose,12.5,mmol/L,High
+LAB-01317,ADM-01317,Hemoglobin,14.2,g/dL,Low
+LAB-01318,ADM-01318,Creatinine,15.9,mg/dL,Normal
+LAB-01319,ADM-01319,C-Reactive Protein,17.6,mg/L,Normal
+LAB-01320,ADM-01320,Glucose,19.3,mmol/L,Normal
+LAB-01321,ADM-01321,Hemoglobin,21.0,g/dL,Normal
+LAB-01322,ADM-01322,Creatinine,22.7,mg/dL,Normal
+LAB-01323,ADM-01323,C-Reactive Protein,24.4,mg/L,High
+LAB-01324,ADM-01324,Glucose,26.1,mmol/L,Low
+LAB-01325,ADM-01325,Hemoglobin,27.8,g/dL,Normal
+LAB-01326,ADM-01326,Creatinine,29.5,mg/dL,Normal
+LAB-01327,ADM-01327,C-Reactive Protein,31.2,mg/L,Normal
+LAB-01328,ADM-01328,Glucose,32.9,mmol/L,Normal
+LAB-01329,ADM-01329,Hemoglobin,34.6,g/dL,Normal
+LAB-01330,ADM-01330,Creatinine,4.0,mg/dL,High
+LAB-01331,ADM-01331,C-Reactive Protein,5.7,mg/L,Low
+LAB-01332,ADM-01332,Glucose,7.4,mmol/L,Normal
+LAB-01333,ADM-01333,Hemoglobin,9.1,g/dL,Normal
+LAB-01334,ADM-01334,Creatinine,10.8,mg/dL,Normal
+LAB-01335,ADM-01335,C-Reactive Protein,12.5,mg/L,Normal
+LAB-01336,ADM-01336,Glucose,14.2,mmol/L,Normal
+LAB-01337,ADM-01337,Hemoglobin,15.9,g/dL,High
+LAB-01338,ADM-01338,Creatinine,17.6,mg/dL,Low
+LAB-01339,ADM-01339,C-Reactive Protein,19.3,mg/L,Normal
+LAB-01340,ADM-01340,Glucose,21.0,mmol/L,Normal
+LAB-01341,ADM-01341,Hemoglobin,22.7,g/dL,Normal
+LAB-01342,ADM-01342,Creatinine,24.4,mg/dL,Normal
+LAB-01343,ADM-01343,C-Reactive Protein,26.1,mg/L,Normal
+LAB-01344,ADM-01344,Glucose,27.8,mmol/L,High
+LAB-01345,ADM-01345,Hemoglobin,29.5,g/dL,Low
+LAB-01346,ADM-01346,Creatinine,31.2,mg/dL,Normal
+LAB-01347,ADM-01347,C-Reactive Protein,32.9,mg/L,Normal
+LAB-01348,ADM-01348,Glucose,34.6,mmol/L,Normal
+LAB-01349,ADM-01349,Hemoglobin,4.0,g/dL,Normal
+LAB-01350,ADM-01350,Creatinine,5.7,mg/dL,Normal
+LAB-01351,ADM-01351,C-Reactive Protein,7.4,mg/L,High
+LAB-01352,ADM-01352,Glucose,9.1,mmol/L,Low
+LAB-01353,ADM-01353,Hemoglobin,10.8,g/dL,Normal
+LAB-01354,ADM-01354,Creatinine,12.5,mg/dL,Normal
+LAB-01355,ADM-01355,C-Reactive Protein,14.2,mg/L,Normal
+LAB-01356,ADM-01356,Glucose,15.9,mmol/L,Normal
+LAB-01357,ADM-01357,Hemoglobin,17.6,g/dL,Normal
+LAB-01358,ADM-01358,Creatinine,19.3,mg/dL,High
+LAB-01359,ADM-01359,C-Reactive Protein,21.0,mg/L,Low
+LAB-01360,ADM-01360,Glucose,22.7,mmol/L,Normal
+LAB-01361,ADM-01361,Hemoglobin,24.4,g/dL,Normal
+LAB-01362,ADM-01362,Creatinine,26.1,mg/dL,Normal
+LAB-01363,ADM-01363,C-Reactive Protein,27.8,mg/L,Normal
+LAB-01364,ADM-01364,Glucose,29.5,mmol/L,Normal
+LAB-01365,ADM-01365,Hemoglobin,31.2,g/dL,High
+LAB-01366,ADM-01366,Creatinine,32.9,mg/dL,Low
+LAB-01367,ADM-01367,C-Reactive Protein,34.6,mg/L,Normal
+LAB-01368,ADM-01368,Glucose,4.0,mmol/L,Normal
+LAB-01369,ADM-01369,Hemoglobin,5.7,g/dL,Normal
+LAB-01370,ADM-01370,Creatinine,7.4,mg/dL,Normal
+LAB-01371,ADM-01371,C-Reactive Protein,9.1,mg/L,Normal
+LAB-01372,ADM-01372,Glucose,10.8,mmol/L,High
+LAB-01373,ADM-01373,Hemoglobin,12.5,g/dL,Low
+LAB-01374,ADM-01374,Creatinine,14.2,mg/dL,Normal
+LAB-01375,ADM-01375,C-Reactive Protein,15.9,mg/L,Normal
+LAB-01376,ADM-01376,Glucose,17.6,mmol/L,Normal
+LAB-01377,ADM-01377,Hemoglobin,19.3,g/dL,Normal
+LAB-01378,ADM-01378,Creatinine,21.0,mg/dL,Normal
+LAB-01379,ADM-01379,C-Reactive Protein,22.7,mg/L,High
+LAB-01380,ADM-01380,Glucose,24.4,mmol/L,Low
+LAB-01381,ADM-01381,Hemoglobin,26.1,g/dL,Normal
+LAB-01382,ADM-01382,Creatinine,27.8,mg/dL,Normal
+LAB-01383,ADM-01383,C-Reactive Protein,29.5,mg/L,Normal
+LAB-01384,ADM-01384,Glucose,31.2,mmol/L,Normal
+LAB-01385,ADM-01385,Hemoglobin,32.9,g/dL,Normal
+LAB-01386,ADM-01386,Creatinine,34.6,mg/dL,High
+LAB-01387,ADM-01387,C-Reactive Protein,4.0,mg/L,Low
+LAB-01388,ADM-01388,Glucose,5.7,mmol/L,Normal
+LAB-01389,ADM-01389,Hemoglobin,7.4,g/dL,Normal
+LAB-01390,ADM-01390,Creatinine,9.1,mg/dL,Normal
+LAB-01391,ADM-01391,C-Reactive Protein,10.8,mg/L,Normal
+LAB-01392,ADM-01392,Glucose,12.5,mmol/L,Normal
+LAB-01393,ADM-01393,Hemoglobin,14.2,g/dL,High
+LAB-01394,ADM-01394,Creatinine,15.9,mg/dL,Low
+LAB-01395,ADM-01395,C-Reactive Protein,17.6,mg/L,Normal
+LAB-01396,ADM-01396,Glucose,19.3,mmol/L,Normal
+LAB-01397,ADM-01397,Hemoglobin,21.0,g/dL,Normal
+LAB-01398,ADM-01398,Creatinine,22.7,mg/dL,Normal
+LAB-01399,ADM-01399,C-Reactive Protein,24.4,mg/L,Normal
+LAB-01400,ADM-01400,Glucose,26.1,mmol/L,High
+LAB-01401,ADM-01401,Hemoglobin,27.8,g/dL,Low
+LAB-01402,ADM-01402,Creatinine,29.5,mg/dL,Normal
+LAB-01403,ADM-01403,C-Reactive Protein,31.2,mg/L,Normal
+LAB-01404,ADM-01404,Glucose,32.9,mmol/L,Normal
+LAB-01405,ADM-01405,Hemoglobin,34.6,g/dL,Normal
+LAB-01406,ADM-01406,Creatinine,4.0,mg/dL,Normal
+LAB-01407,ADM-01407,C-Reactive Protein,5.7,mg/L,High
+LAB-01408,ADM-01408,Glucose,7.4,mmol/L,Low
+LAB-01409,ADM-01409,Hemoglobin,9.1,g/dL,Normal
+LAB-01410,ADM-01410,Creatinine,10.8,mg/dL,Normal
+LAB-01411,ADM-01411,C-Reactive Protein,12.5,mg/L,Normal
+LAB-01412,ADM-01412,Glucose,14.2,mmol/L,Normal
+LAB-01413,ADM-01413,Hemoglobin,15.9,g/dL,Normal
+LAB-01414,ADM-01414,Creatinine,17.6,mg/dL,High
+LAB-01415,ADM-01415,C-Reactive Protein,19.3,mg/L,Low
+LAB-01416,ADM-01416,Glucose,21.0,mmol/L,Normal
+LAB-01417,ADM-01417,Hemoglobin,22.7,g/dL,Normal
+LAB-01418,ADM-01418,Creatinine,24.4,mg/dL,Normal
+LAB-01419,ADM-01419,C-Reactive Protein,26.1,mg/L,Normal
+LAB-01420,ADM-01420,Glucose,27.8,mmol/L,Normal
+LAB-01421,ADM-01421,Hemoglobin,29.5,g/dL,High
+LAB-01422,ADM-01422,Creatinine,31.2,mg/dL,Low
+LAB-01423,ADM-01423,C-Reactive Protein,32.9,mg/L,Normal
+LAB-01424,ADM-01424,Glucose,34.6,mmol/L,Normal
+LAB-01425,ADM-01425,Hemoglobin,4.0,g/dL,Normal
+LAB-01426,ADM-01426,Creatinine,5.7,mg/dL,Normal
+LAB-01427,ADM-01427,C-Reactive Protein,7.4,mg/L,Normal
+LAB-01428,ADM-01428,Glucose,9.1,mmol/L,High
+LAB-01429,ADM-01429,Hemoglobin,10.8,g/dL,Low
+LAB-01430,ADM-01430,Creatinine,12.5,mg/dL,Normal
+LAB-01431,ADM-01431,C-Reactive Protein,14.2,mg/L,Normal
+LAB-01432,ADM-01432,Glucose,15.9,mmol/L,Normal
+LAB-01433,ADM-01433,Hemoglobin,17.6,g/dL,Normal
+LAB-01434,ADM-01434,Creatinine,19.3,mg/dL,Normal
+LAB-01435,ADM-01435,C-Reactive Protein,21.0,mg/L,High
+LAB-01436,ADM-01436,Glucose,22.7,mmol/L,Low
+LAB-01437,ADM-01437,Hemoglobin,24.4,g/dL,Normal
+LAB-01438,ADM-01438,Creatinine,26.1,mg/dL,Normal
+LAB-01439,ADM-01439,C-Reactive Protein,27.8,mg/L,Normal
+LAB-01440,ADM-01440,Glucose,29.5,mmol/L,Normal
+LAB-01441,ADM-01441,Hemoglobin,31.2,g/dL,Normal
+LAB-01442,ADM-01442,Creatinine,32.9,mg/dL,High
+LAB-01443,ADM-01443,C-Reactive Protein,34.6,mg/L,Low
+LAB-01444,ADM-01444,Glucose,4.0,mmol/L,Normal
+LAB-01445,ADM-01445,Hemoglobin,5.7,g/dL,Normal
+LAB-01446,ADM-01446,Creatinine,7.4,mg/dL,Normal
+LAB-01447,ADM-01447,C-Reactive Protein,9.1,mg/L,Normal
+LAB-01448,ADM-01448,Glucose,10.8,mmol/L,Normal
+LAB-01449,ADM-01449,Hemoglobin,12.5,g/dL,High
+LAB-01450,ADM-01450,Creatinine,14.2,mg/dL,Low
+LAB-01451,ADM-01451,C-Reactive Protein,15.9,mg/L,Normal
+LAB-01452,ADM-01452,Glucose,17.6,mmol/L,Normal
+LAB-01453,ADM-01453,Hemoglobin,19.3,g/dL,Normal
+LAB-01454,ADM-01454,Creatinine,21.0,mg/dL,Normal
+LAB-01455,ADM-01455,C-Reactive Protein,22.7,mg/L,Normal
+LAB-01456,ADM-01456,Glucose,24.4,mmol/L,High
+LAB-01457,ADM-01457,Hemoglobin,26.1,g/dL,Low
+LAB-01458,ADM-01458,Creatinine,27.8,mg/dL,Normal
+LAB-01459,ADM-01459,C-Reactive Protein,29.5,mg/L,Normal
+LAB-01460,ADM-01460,Glucose,31.2,mmol/L,Normal
+LAB-01461,ADM-01461,Hemoglobin,32.9,g/dL,Normal
+LAB-01462,ADM-01462,Creatinine,34.6,mg/dL,Normal
+LAB-01463,ADM-01463,C-Reactive Protein,4.0,mg/L,High
+LAB-01464,ADM-01464,Glucose,5.7,mmol/L,Low
+LAB-01465,ADM-01465,Hemoglobin,7.4,g/dL,Normal
+LAB-01466,ADM-01466,Creatinine,9.1,mg/dL,Normal
+LAB-01467,ADM-01467,C-Reactive Protein,10.8,mg/L,Normal
+LAB-01468,ADM-01468,Glucose,12.5,mmol/L,Normal
+LAB-01469,ADM-01469,Hemoglobin,14.2,g/dL,Normal
+LAB-01470,ADM-01470,Creatinine,15.9,mg/dL,High
+LAB-01471,ADM-01471,C-Reactive Protein,17.6,mg/L,Low
+LAB-01472,ADM-01472,Glucose,19.3,mmol/L,Normal
+LAB-01473,ADM-01473,Hemoglobin,21.0,g/dL,Normal
+LAB-01474,ADM-01474,Creatinine,22.7,mg/dL,Normal
+LAB-01475,ADM-01475,C-Reactive Protein,24.4,mg/L,Normal
+LAB-01476,ADM-01476,Glucose,26.1,mmol/L,Normal
+LAB-01477,ADM-01477,Hemoglobin,27.8,g/dL,High
+LAB-01478,ADM-01478,Creatinine,29.5,mg/dL,Low
+LAB-01479,ADM-01479,C-Reactive Protein,31.2,mg/L,Normal
+LAB-01480,ADM-01480,Glucose,32.9,mmol/L,Normal
+LAB-01481,ADM-01481,Hemoglobin,34.6,g/dL,Normal
+LAB-01482,ADM-01482,Creatinine,4.0,mg/dL,Normal
+LAB-01483,ADM-01483,C-Reactive Protein,5.7,mg/L,Normal
+LAB-01484,ADM-01484,Glucose,7.4,mmol/L,High
+LAB-01485,ADM-01485,Hemoglobin,9.1,g/dL,Low
+LAB-01486,ADM-01486,Creatinine,10.8,mg/dL,Normal
+LAB-01487,ADM-01487,C-Reactive Protein,12.5,mg/L,Normal
+LAB-01488,ADM-01488,Glucose,14.2,mmol/L,Normal
+LAB-01489,ADM-01489,Hemoglobin,15.9,g/dL,Normal
+LAB-01490,ADM-01490,Creatinine,17.6,mg/dL,Normal
+LAB-01491,ADM-01491,C-Reactive Protein,19.3,mg/L,High
+LAB-01492,ADM-01492,Glucose,21.0,mmol/L,Low
+LAB-01493,ADM-01493,Hemoglobin,22.7,g/dL,Normal
+LAB-01494,ADM-01494,Creatinine,24.4,mg/dL,Normal
+LAB-01495,ADM-01495,C-Reactive Protein,26.1,mg/L,Normal
+LAB-01496,ADM-01496,Glucose,27.8,mmol/L,Normal
+LAB-01497,ADM-01497,Hemoglobin,29.5,g/dL,Normal
+LAB-01498,ADM-01498,Creatinine,31.2,mg/dL,High
+LAB-01499,ADM-01499,C-Reactive Protein,32.9,mg/L,Low
+LAB-01500,ADM-01500,Glucose,34.6,mmol/L,Normal
+LAB-01501,ADM-01501,Hemoglobin,4.0,g/dL,Normal
+LAB-01502,ADM-01502,Creatinine,5.7,mg/dL,Normal
+LAB-01503,ADM-01503,C-Reactive Protein,7.4,mg/L,Normal
+LAB-01504,ADM-01504,Glucose,9.1,mmol/L,Normal
+LAB-01505,ADM-01505,Hemoglobin,10.8,g/dL,High
+LAB-01506,ADM-01506,Creatinine,12.5,mg/dL,Low
+LAB-01507,ADM-01507,C-Reactive Protein,14.2,mg/L,Normal
+LAB-01508,ADM-01508,Glucose,15.9,mmol/L,Normal
+LAB-01509,ADM-01509,Hemoglobin,17.6,g/dL,Normal
+LAB-01510,ADM-01510,Creatinine,19.3,mg/dL,Normal
+LAB-01511,ADM-01511,C-Reactive Protein,21.0,mg/L,Normal
+LAB-01512,ADM-01512,Glucose,22.7,mmol/L,High
+LAB-01513,ADM-01513,Hemoglobin,24.4,g/dL,Low
+LAB-01514,ADM-01514,Creatinine,26.1,mg/dL,Normal
+LAB-01515,ADM-01515,C-Reactive Protein,27.8,mg/L,Normal
+LAB-01516,ADM-01516,Glucose,29.5,mmol/L,Normal
+LAB-01517,ADM-01517,Hemoglobin,31.2,g/dL,Normal
+LAB-01518,ADM-01518,Creatinine,32.9,mg/dL,Normal
+LAB-01519,ADM-01519,C-Reactive Protein,34.6,mg/L,High
+LAB-01520,ADM-01520,Glucose,4.0,mmol/L,Low
+LAB-01521,ADM-01521,Hemoglobin,5.7,g/dL,Normal
+LAB-01522,ADM-01522,Creatinine,7.4,mg/dL,Normal
+LAB-01523,ADM-01523,C-Reactive Protein,9.1,mg/L,Normal
+LAB-01524,ADM-01524,Glucose,10.8,mmol/L,Normal
+LAB-01525,ADM-01525,Hemoglobin,12.5,g/dL,Normal
+LAB-01526,ADM-01526,Creatinine,14.2,mg/dL,High
+LAB-01527,ADM-01527,C-Reactive Protein,15.9,mg/L,Low
+LAB-01528,ADM-01528,Glucose,17.6,mmol/L,Normal
+LAB-01529,ADM-01529,Hemoglobin,19.3,g/dL,Normal
+LAB-01530,ADM-01530,Creatinine,21.0,mg/dL,Normal
+LAB-01531,ADM-01531,C-Reactive Protein,22.7,mg/L,Normal
+LAB-01532,ADM-01532,Glucose,24.4,mmol/L,Normal
+LAB-01533,ADM-01533,Hemoglobin,26.1,g/dL,High
+LAB-01534,ADM-01534,Creatinine,27.8,mg/dL,Low
+LAB-01535,ADM-01535,C-Reactive Protein,29.5,mg/L,Normal
+LAB-01536,ADM-01536,Glucose,31.2,mmol/L,Normal
+LAB-01537,ADM-01537,Hemoglobin,32.9,g/dL,Normal
+LAB-01538,ADM-01538,Creatinine,34.6,mg/dL,Normal
+LAB-01539,ADM-01539,C-Reactive Protein,4.0,mg/L,Normal
+LAB-01540,ADM-01540,Glucose,5.7,mmol/L,High
+LAB-01541,ADM-01541,Hemoglobin,7.4,g/dL,Low
+LAB-01542,ADM-01542,Creatinine,9.1,mg/dL,Normal
+LAB-01543,ADM-01543,C-Reactive Protein,10.8,mg/L,Normal
+LAB-01544,ADM-01544,Glucose,12.5,mmol/L,Normal
+LAB-01545,ADM-01545,Hemoglobin,14.2,g/dL,Normal
+LAB-01546,ADM-01546,Creatinine,15.9,mg/dL,Normal
+LAB-01547,ADM-01547,C-Reactive Protein,17.6,mg/L,High
+LAB-01548,ADM-01548,Glucose,19.3,mmol/L,Low
+LAB-01549,ADM-01549,Hemoglobin,21.0,g/dL,Normal
+LAB-01550,ADM-01550,Creatinine,22.7,mg/dL,Normal
+LAB-01551,ADM-01551,C-Reactive Protein,24.4,mg/L,Normal
+LAB-01552,ADM-01552,Glucose,26.1,mmol/L,Normal
+LAB-01553,ADM-01553,Hemoglobin,27.8,g/dL,Normal
+LAB-01554,ADM-01554,Creatinine,29.5,mg/dL,High
+LAB-01555,ADM-01555,C-Reactive Protein,31.2,mg/L,Low
+LAB-01556,ADM-01556,Glucose,32.9,mmol/L,Normal
+LAB-01557,ADM-01557,Hemoglobin,34.6,g/dL,Normal
+LAB-01558,ADM-01558,Creatinine,4.0,mg/dL,Normal
+LAB-01559,ADM-01559,C-Reactive Protein,5.7,mg/L,Normal
+LAB-01560,ADM-01560,Glucose,7.4,mmol/L,Normal
+LAB-01561,ADM-01561,Hemoglobin,9.1,g/dL,High
+LAB-01562,ADM-01562,Creatinine,10.8,mg/dL,Low
+LAB-01563,ADM-01563,C-Reactive Protein,12.5,mg/L,Normal
+LAB-01564,ADM-01564,Glucose,14.2,mmol/L,Normal
+LAB-01565,ADM-01565,Hemoglobin,15.9,g/dL,Normal
+LAB-01566,ADM-01566,Creatinine,17.6,mg/dL,Normal
+LAB-01567,ADM-01567,C-Reactive Protein,19.3,mg/L,Normal
+LAB-01568,ADM-01568,Glucose,21.0,mmol/L,High
+LAB-01569,ADM-01569,Hemoglobin,22.7,g/dL,Low
+LAB-01570,ADM-01570,Creatinine,24.4,mg/dL,Normal
+LAB-01571,ADM-01571,C-Reactive Protein,26.1,mg/L,Normal
+LAB-01572,ADM-01572,Glucose,27.8,mmol/L,Normal
+LAB-01573,ADM-01573,Hemoglobin,29.5,g/dL,Normal
+LAB-01574,ADM-01574,Creatinine,31.2,mg/dL,Normal
+LAB-01575,ADM-01575,C-Reactive Protein,32.9,mg/L,High
+LAB-01576,ADM-01576,Glucose,34.6,mmol/L,Low
+LAB-01577,ADM-01577,Hemoglobin,4.0,g/dL,Normal
+LAB-01578,ADM-01578,Creatinine,5.7,mg/dL,Normal
+LAB-01579,ADM-01579,C-Reactive Protein,7.4,mg/L,Normal
+LAB-01580,ADM-01580,Glucose,9.1,mmol/L,Normal
+LAB-01581,ADM-01581,Hemoglobin,10.8,g/dL,Normal
+LAB-01582,ADM-01582,Creatinine,12.5,mg/dL,High
+LAB-01583,ADM-01583,C-Reactive Protein,14.2,mg/L,Low
+LAB-01584,ADM-01584,Glucose,15.9,mmol/L,Normal
+LAB-01585,ADM-01585,Hemoglobin,17.6,g/dL,Normal
+LAB-01586,ADM-01586,Creatinine,19.3,mg/dL,Normal
+LAB-01587,ADM-01587,C-Reactive Protein,21.0,mg/L,Normal
+LAB-01588,ADM-01588,Glucose,22.7,mmol/L,Normal
+LAB-01589,ADM-01589,Hemoglobin,24.4,g/dL,High
+LAB-01590,ADM-01590,Creatinine,26.1,mg/dL,Low
+LAB-01591,ADM-01591,C-Reactive Protein,27.8,mg/L,Normal
+LAB-01592,ADM-01592,Glucose,29.5,mmol/L,Normal
+LAB-01593,ADM-01593,Hemoglobin,31.2,g/dL,Normal
+LAB-01594,ADM-01594,Creatinine,32.9,mg/dL,Normal
+LAB-01595,ADM-01595,C-Reactive Protein,34.6,mg/L,Normal
+LAB-01596,ADM-01596,Glucose,4.0,mmol/L,High
+LAB-01597,ADM-01597,Hemoglobin,5.7,g/dL,Low
+LAB-01598,ADM-01598,Creatinine,7.4,mg/dL,Normal
+LAB-01599,ADM-01599,C-Reactive Protein,9.1,mg/L,Normal
+LAB-01600,ADM-01600,Glucose,10.8,mmol/L,Normal
+LAB-01601,ADM-01601,Hemoglobin,12.5,g/dL,Normal
+LAB-01602,ADM-01602,Creatinine,14.2,mg/dL,Normal
+LAB-01603,ADM-01603,C-Reactive Protein,15.9,mg/L,High
+LAB-01604,ADM-01604,Glucose,17.6,mmol/L,Low
+LAB-01605,ADM-01605,Hemoglobin,19.3,g/dL,Normal
+LAB-01606,ADM-01606,Creatinine,21.0,mg/dL,Normal
+LAB-01607,ADM-01607,C-Reactive Protein,22.7,mg/L,Normal
+LAB-01608,ADM-01608,Glucose,24.4,mmol/L,Normal
+LAB-01609,ADM-01609,Hemoglobin,26.1,g/dL,Normal
+LAB-01610,ADM-01610,Creatinine,27.8,mg/dL,High
+LAB-01611,ADM-01611,C-Reactive Protein,29.5,mg/L,Low
+LAB-01612,ADM-01612,Glucose,31.2,mmol/L,Normal
+LAB-01613,ADM-01613,Hemoglobin,32.9,g/dL,Normal
+LAB-01614,ADM-01614,Creatinine,34.6,mg/dL,Normal
+LAB-01615,ADM-01615,C-Reactive Protein,4.0,mg/L,Normal
+LAB-01616,ADM-01616,Glucose,5.7,mmol/L,Normal
+LAB-01617,ADM-01617,Hemoglobin,7.4,g/dL,High
+LAB-01618,ADM-01618,Creatinine,9.1,mg/dL,Low
+LAB-01619,ADM-01619,C-Reactive Protein,10.8,mg/L,Normal
+LAB-01620,ADM-01620,Glucose,12.5,mmol/L,Normal
+LAB-01621,ADM-01621,Hemoglobin,14.2,g/dL,Normal
+LAB-01622,ADM-01622,Creatinine,15.9,mg/dL,Normal
+LAB-01623,ADM-01623,C-Reactive Protein,17.6,mg/L,Normal
+LAB-01624,ADM-01624,Glucose,19.3,mmol/L,High
+LAB-01625,ADM-01625,Hemoglobin,21.0,g/dL,Low
+LAB-01626,ADM-01626,Creatinine,22.7,mg/dL,Normal
+LAB-01627,ADM-01627,C-Reactive Protein,24.4,mg/L,Normal
+LAB-01628,ADM-01628,Glucose,26.1,mmol/L,Normal
+LAB-01629,ADM-01629,Hemoglobin,27.8,g/dL,Normal
+LAB-01630,ADM-01630,Creatinine,29.5,mg/dL,Normal
+LAB-01631,ADM-01631,C-Reactive Protein,31.2,mg/L,High
+LAB-01632,ADM-01632,Glucose,32.9,mmol/L,Low
+LAB-01633,ADM-01633,Hemoglobin,34.6,g/dL,Normal
+LAB-01634,ADM-01634,Creatinine,4.0,mg/dL,Normal
+LAB-01635,ADM-01635,C-Reactive Protein,5.7,mg/L,Normal
+LAB-01636,ADM-01636,Glucose,7.4,mmol/L,Normal
+LAB-01637,ADM-01637,Hemoglobin,9.1,g/dL,Normal
+LAB-01638,ADM-01638,Creatinine,10.8,mg/dL,High
+LAB-01639,ADM-01639,C-Reactive Protein,12.5,mg/L,Low
+LAB-01640,ADM-01640,Glucose,14.2,mmol/L,Normal
+LAB-01641,ADM-01641,Hemoglobin,15.9,g/dL,Normal
+LAB-01642,ADM-01642,Creatinine,17.6,mg/dL,Normal
+LAB-01643,ADM-01643,C-Reactive Protein,19.3,mg/L,Normal
+LAB-01644,ADM-01644,Glucose,21.0,mmol/L,Normal
+LAB-01645,ADM-01645,Hemoglobin,22.7,g/dL,High
+LAB-01646,ADM-01646,Creatinine,24.4,mg/dL,Low
+LAB-01647,ADM-01647,C-Reactive Protein,26.1,mg/L,Normal
+LAB-01648,ADM-01648,Glucose,27.8,mmol/L,Normal
+LAB-01649,ADM-01649,Hemoglobin,29.5,g/dL,Normal
+LAB-01650,ADM-01650,Creatinine,31.2,mg/dL,Normal
+LAB-01651,ADM-01651,C-Reactive Protein,32.9,mg/L,Normal
+LAB-01652,ADM-01652,Glucose,34.6,mmol/L,High
+LAB-01653,ADM-01653,Hemoglobin,4.0,g/dL,Low
+LAB-01654,ADM-01654,Creatinine,5.7,mg/dL,Normal
+LAB-01655,ADM-01655,C-Reactive Protein,7.4,mg/L,Normal
+LAB-01656,ADM-01656,Glucose,9.1,mmol/L,Normal
+LAB-01657,ADM-01657,Hemoglobin,10.8,g/dL,Normal
+LAB-01658,ADM-01658,Creatinine,12.5,mg/dL,Normal
+LAB-01659,ADM-01659,C-Reactive Protein,14.2,mg/L,High
+LAB-01660,ADM-01660,Glucose,15.9,mmol/L,Low
+LAB-01661,ADM-01661,Hemoglobin,17.6,g/dL,Normal
+LAB-01662,ADM-01662,Creatinine,19.3,mg/dL,Normal
+LAB-01663,ADM-01663,C-Reactive Protein,21.0,mg/L,Normal
+LAB-01664,ADM-01664,Glucose,22.7,mmol/L,Normal
+LAB-01665,ADM-01665,Hemoglobin,24.4,g/dL,Normal
+LAB-01666,ADM-01666,Creatinine,26.1,mg/dL,High
+LAB-01667,ADM-01667,C-Reactive Protein,27.8,mg/L,Low
+LAB-01668,ADM-01668,Glucose,29.5,mmol/L,Normal
+LAB-01669,ADM-01669,Hemoglobin,31.2,g/dL,Normal
+LAB-01670,ADM-01670,Creatinine,32.9,mg/dL,Normal
+LAB-01671,ADM-01671,C-Reactive Protein,34.6,mg/L,Normal
+LAB-01672,ADM-01672,Glucose,4.0,mmol/L,Normal
+LAB-01673,ADM-01673,Hemoglobin,5.7,g/dL,High
+LAB-01674,ADM-01674,Creatinine,7.4,mg/dL,Low
+LAB-01675,ADM-01675,C-Reactive Protein,9.1,mg/L,Normal
+LAB-01676,ADM-01676,Glucose,10.8,mmol/L,Normal
+LAB-01677,ADM-01677,Hemoglobin,12.5,g/dL,Normal
+LAB-01678,ADM-01678,Creatinine,14.2,mg/dL,Normal
+LAB-01679,ADM-01679,C-Reactive Protein,15.9,mg/L,Normal
+LAB-01680,ADM-01680,Glucose,17.6,mmol/L,High
+LAB-01681,ADM-01681,Hemoglobin,19.3,g/dL,Low
+LAB-01682,ADM-01682,Creatinine,21.0,mg/dL,Normal
+LAB-01683,ADM-01683,C-Reactive Protein,22.7,mg/L,Normal
+LAB-01684,ADM-01684,Glucose,24.4,mmol/L,Normal
+LAB-01685,ADM-01685,Hemoglobin,26.1,g/dL,Normal
+LAB-01686,ADM-01686,Creatinine,27.8,mg/dL,Normal
+LAB-01687,ADM-01687,C-Reactive Protein,29.5,mg/L,High
+LAB-01688,ADM-01688,Glucose,31.2,mmol/L,Low
+LAB-01689,ADM-01689,Hemoglobin,32.9,g/dL,Normal
+LAB-01690,ADM-01690,Creatinine,34.6,mg/dL,Normal
+LAB-01691,ADM-01691,C-Reactive Protein,4.0,mg/L,Normal
+LAB-01692,ADM-01692,Glucose,5.7,mmol/L,Normal
+LAB-01693,ADM-01693,Hemoglobin,7.4,g/dL,Normal
+LAB-01694,ADM-01694,Creatinine,9.1,mg/dL,High
+LAB-01695,ADM-01695,C-Reactive Protein,10.8,mg/L,Low
+LAB-01696,ADM-01696,Glucose,12.5,mmol/L,Normal
+LAB-01697,ADM-01697,Hemoglobin,14.2,g/dL,Normal
+LAB-01698,ADM-01698,Creatinine,15.9,mg/dL,Normal
+LAB-01699,ADM-01699,C-Reactive Protein,17.6,mg/L,Normal
+LAB-01700,ADM-01700,Glucose,19.3,mmol/L,Normal
+LAB-01701,ADM-01701,Hemoglobin,21.0,g/dL,High
+LAB-01702,ADM-01702,Creatinine,22.7,mg/dL,Low
+LAB-01703,ADM-01703,C-Reactive Protein,24.4,mg/L,Normal
+LAB-01704,ADM-01704,Glucose,26.1,mmol/L,Normal
+LAB-01705,ADM-01705,Hemoglobin,27.8,g/dL,Normal
+LAB-01706,ADM-01706,Creatinine,29.5,mg/dL,Normal
+LAB-01707,ADM-01707,C-Reactive Protein,31.2,mg/L,Normal
+LAB-01708,ADM-01708,Glucose,32.9,mmol/L,High
+LAB-01709,ADM-01709,Hemoglobin,34.6,g/dL,Low
+LAB-01710,ADM-01710,Creatinine,4.0,mg/dL,Normal
+LAB-01711,ADM-01711,C-Reactive Protein,5.7,mg/L,Normal
+LAB-01712,ADM-01712,Glucose,7.4,mmol/L,Normal
+LAB-01713,ADM-01713,Hemoglobin,9.1,g/dL,Normal
+LAB-01714,ADM-01714,Creatinine,10.8,mg/dL,Normal
+LAB-01715,ADM-01715,C-Reactive Protein,12.5,mg/L,High
+LAB-01716,ADM-01716,Glucose,14.2,mmol/L,Low
+LAB-01717,ADM-01717,Hemoglobin,15.9,g/dL,Normal
+LAB-01718,ADM-01718,Creatinine,17.6,mg/dL,Normal
+LAB-01719,ADM-01719,C-Reactive Protein,19.3,mg/L,Normal
+LAB-01720,ADM-01720,Glucose,21.0,mmol/L,Normal
+LAB-01721,ADM-01721,Hemoglobin,22.7,g/dL,Normal
+LAB-01722,ADM-01722,Creatinine,24.4,mg/dL,High
+LAB-01723,ADM-01723,C-Reactive Protein,26.1,mg/L,Low
+LAB-01724,ADM-01724,Glucose,27.8,mmol/L,Normal
+LAB-01725,ADM-01725,Hemoglobin,29.5,g/dL,Normal
+LAB-01726,ADM-01726,Creatinine,31.2,mg/dL,Normal
+LAB-01727,ADM-01727,C-Reactive Protein,32.9,mg/L,Normal
+LAB-01728,ADM-01728,Glucose,34.6,mmol/L,Normal
+LAB-01729,ADM-01729,Hemoglobin,4.0,g/dL,High
+LAB-01730,ADM-01730,Creatinine,5.7,mg/dL,Low
+LAB-01731,ADM-01731,C-Reactive Protein,7.4,mg/L,Normal
+LAB-01732,ADM-01732,Glucose,9.1,mmol/L,Normal
+LAB-01733,ADM-01733,Hemoglobin,10.8,g/dL,Normal
+LAB-01734,ADM-01734,Creatinine,12.5,mg/dL,Normal
+LAB-01735,ADM-01735,C-Reactive Protein,14.2,mg/L,Normal
+LAB-01736,ADM-01736,Glucose,15.9,mmol/L,High
+LAB-01737,ADM-01737,Hemoglobin,17.6,g/dL,Low
+LAB-01738,ADM-01738,Creatinine,19.3,mg/dL,Normal
+LAB-01739,ADM-01739,C-Reactive Protein,21.0,mg/L,Normal
+LAB-01740,ADM-01740,Glucose,22.7,mmol/L,Normal
+LAB-01741,ADM-01741,Hemoglobin,24.4,g/dL,Normal
+LAB-01742,ADM-01742,Creatinine,26.1,mg/dL,Normal
+LAB-01743,ADM-01743,C-Reactive Protein,27.8,mg/L,High
+LAB-01744,ADM-01744,Glucose,29.5,mmol/L,Low
+LAB-01745,ADM-01745,Hemoglobin,31.2,g/dL,Normal
+LAB-01746,ADM-01746,Creatinine,32.9,mg/dL,Normal
+LAB-01747,ADM-01747,C-Reactive Protein,34.6,mg/L,Normal
+LAB-01748,ADM-01748,Glucose,4.0,mmol/L,Normal
+LAB-01749,ADM-01749,Hemoglobin,5.7,g/dL,Normal
+LAB-01750,ADM-01750,Creatinine,7.4,mg/dL,High
+LAB-01751,ADM-01751,C-Reactive Protein,9.1,mg/L,Low
+LAB-01752,ADM-01752,Glucose,10.8,mmol/L,Normal
+LAB-01753,ADM-01753,Hemoglobin,12.5,g/dL,Normal
+LAB-01754,ADM-01754,Creatinine,14.2,mg/dL,Normal
+LAB-01755,ADM-01755,C-Reactive Protein,15.9,mg/L,Normal
+LAB-01756,ADM-01756,Glucose,17.6,mmol/L,Normal
+LAB-01757,ADM-01757,Hemoglobin,19.3,g/dL,High
+LAB-01758,ADM-01758,Creatinine,21.0,mg/dL,Low
+LAB-01759,ADM-01759,C-Reactive Protein,22.7,mg/L,Normal
+LAB-01760,ADM-01760,Glucose,24.4,mmol/L,Normal
+LAB-01761,ADM-01761,Hemoglobin,26.1,g/dL,Normal
+LAB-01762,ADM-01762,Creatinine,27.8,mg/dL,Normal
+LAB-01763,ADM-01763,C-Reactive Protein,29.5,mg/L,Normal
+LAB-01764,ADM-01764,Glucose,31.2,mmol/L,High
+LAB-01765,ADM-01765,Hemoglobin,32.9,g/dL,Low
+LAB-01766,ADM-01766,Creatinine,34.6,mg/dL,Normal
+LAB-01767,ADM-01767,C-Reactive Protein,4.0,mg/L,Normal
+LAB-01768,ADM-01768,Glucose,5.7,mmol/L,Normal
+LAB-01769,ADM-01769,Hemoglobin,7.4,g/dL,Normal
+LAB-01770,ADM-01770,Creatinine,9.1,mg/dL,Normal
+LAB-01771,ADM-01771,C-Reactive Protein,10.8,mg/L,High
+LAB-01772,ADM-01772,Glucose,12.5,mmol/L,Low
+LAB-01773,ADM-01773,Hemoglobin,14.2,g/dL,Normal
+LAB-01774,ADM-01774,Creatinine,15.9,mg/dL,Normal
+LAB-01775,ADM-01775,C-Reactive Protein,17.6,mg/L,Normal
+LAB-01776,ADM-01776,Glucose,19.3,mmol/L,Normal
+LAB-01777,ADM-01777,Hemoglobin,21.0,g/dL,Normal
+LAB-01778,ADM-01778,Creatinine,22.7,mg/dL,High
+LAB-01779,ADM-01779,C-Reactive Protein,24.4,mg/L,Low
+LAB-01780,ADM-01780,Glucose,26.1,mmol/L,Normal
+LAB-01781,ADM-01781,Hemoglobin,27.8,g/dL,Normal
+LAB-01782,ADM-01782,Creatinine,29.5,mg/dL,Normal
+LAB-01783,ADM-01783,C-Reactive Protein,31.2,mg/L,Normal
+LAB-01784,ADM-01784,Glucose,32.9,mmol/L,Normal
+LAB-01785,ADM-01785,Hemoglobin,34.6,g/dL,High
+LAB-01786,ADM-01786,Creatinine,4.0,mg/dL,Low
+LAB-01787,ADM-01787,C-Reactive Protein,5.7,mg/L,Normal
+LAB-01788,ADM-01788,Glucose,7.4,mmol/L,Normal
+LAB-01789,ADM-01789,Hemoglobin,9.1,g/dL,Normal
+LAB-01790,ADM-01790,Creatinine,10.8,mg/dL,Normal
+LAB-01791,ADM-01791,C-Reactive Protein,12.5,mg/L,Normal
+LAB-01792,ADM-01792,Glucose,14.2,mmol/L,High
+LAB-01793,ADM-01793,Hemoglobin,15.9,g/dL,Low
+LAB-01794,ADM-01794,Creatinine,17.6,mg/dL,Normal
+LAB-01795,ADM-01795,C-Reactive Protein,19.3,mg/L,Normal
+LAB-01796,ADM-01796,Glucose,21.0,mmol/L,Normal
+LAB-01797,ADM-01797,Hemoglobin,22.7,g/dL,Normal
+LAB-01798,ADM-01798,Creatinine,24.4,mg/dL,Normal
+LAB-01799,ADM-01799,C-Reactive Protein,26.1,mg/L,High
+LAB-01800,ADM-01800,Glucose,27.8,mmol/L,Low
